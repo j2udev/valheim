@@ -22,6 +22,14 @@ then exit SteamCMD
 exit
 ```
 
+In order to make your dedicated server available to others, you'll need top open a few ports on your network. This varies by router, but I use Google WiFi which has a convenient app.
+
+`Settings` -> `Network & General` -> `Advanced networking` -> `Port management` -> add the following ports:
+
+- 2456
+- 2457
+- 2458
+
 The `Valheim/worlds` folder contains our server information.  Typically I will make a junction between this version controlled `Valheim` folder and the save location on my machine, which looks something like this:
 
 ```
