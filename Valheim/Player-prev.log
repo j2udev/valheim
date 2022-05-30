@@ -10,12 +10,12 @@ Direct3D:
     VRAM:     10077 MB
     Driver:   30.0.14.9649
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.459 seconds
+- Completed reload, in  0.083 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.665800 ms
-03/20/2022 11:24:55: Starting to load scene:start
+UnloadTime: 0.633000 ms
+05/30/2022 13:29:32: Starting to load scene:start
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -27,99 +27,401 @@ Couldn't create a Convex Mesh from source mesh "default" within the maximum poly
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: 20c0 -> priority: 1 
-  Thread -> id: 23d8 -> priority: 1 
-  Thread -> id: 5a78 -> priority: 1 
-  Thread -> id: 236c -> priority: 1 
-  Thread -> id: 4b8c -> priority: 1 
-  Thread -> id: 3910 -> priority: 1 
-  Thread -> id: 321c -> priority: 1 
-  Thread -> id: 4724 -> priority: 1 
-  Thread -> id: 5ab0 -> priority: 1 
-  Thread -> id: 1038 -> priority: 1 
-  Thread -> id: 4c40 -> priority: 1 
-  Thread -> id: 5164 -> priority: 1 
-  Thread -> id: 1c20 -> priority: 1 
-  Thread -> id: 2a7c -> priority: 1 
-  Thread -> id: 597c -> priority: 1 
-  Thread -> id: 31a4 -> priority: 1 
-UnloadTime: 4.952700 ms
+  Thread -> id: 26b0 -> priority: 1 
+  Thread -> id: 1d94 -> priority: 1 
+  Thread -> id: 1d54 -> priority: 1 
+  Thread -> id: 26dc -> priority: 1 
+  Thread -> id: f20 -> priority: 1 
+  Thread -> id: 4778 -> priority: 1 
+  Thread -> id: 270c -> priority: 1 
+  Thread -> id: 570 -> priority: 1 
+  Thread -> id: 5780 -> priority: 1 
+  Thread -> id: 2b60 -> priority: 1 
+  Thread -> id: 4d74 -> priority: 1 
+  Thread -> id: 31cc -> priority: 1 
+  Thread -> id: 2908 -> priority: 1 
+  Thread -> id: 5490 -> priority: 1 
+  Thread -> id: 14c0 -> priority: 1 
+  Thread -> id: 59c0 -> priority: 1 
+UnloadTime: 4.901700 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
 (Filename:  Line: 516)
 
-03/20/2022 11:24:58: Using environment steamid 892970
+05/30/2022 13:29:36: Using environment steamid 892970
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:58: Using steam APPID:892970
+05/30/2022 13:29:36: Using steam APPID:892970
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:58: Authentication:k_ESteamNetworkingAvailability_Attempting
+05/30/2022 13:29:36: Authentication:k_ESteamNetworkingAvailability_Attempting
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:58: Steam initialized, persona:Ward
+05/30/2022 13:29:36: Steam initialized, persona:Ward
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:58: Using default prefs
+05/30/2022 13:29:36: Using default prefs
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:58: Valheim version:0.207.20
+05/30/2022 13:29:36: Valheim version:0.208.1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:58: Render threading mode:MultiThreaded
+05/30/2022 13:29:36: Render threading mode:MultiThreaded
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:58: Missing audio clip in music respawn
+05/30/2022 13:29:36: Missing audio clip in music respawn
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:58: Checking for installed DLCs
+05/30/2022 13:29:36: Checking for installed DLCs
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:58: DLC:beta installed:False
+05/30/2022 13:29:36: DLC:beta installed:False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:58: Builder started
+05/30/2022 13:29:36: Builder started
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:59: Loaded localization CSV:localization language:English
+05/30/2022 13:29:36: Loaded localization CSV:localization language:English
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:59: Loaded localization CSV:localization_extra language:English
+05/30/2022 13:29:36: Loaded localization CSV:localization_extra language:English
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:59: Loaded localization CSV:localization language:English
+05/30/2022 13:29:36: Loaded localization CSV:localization language:English
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:59: Loaded localization CSV:localization_extra language:English
+05/30/2022 13:29:36: Loaded localization CSV:localization_extra language:English
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:24:59: UI Group status changed Menu = True
+05/30/2022 13:29:36: UI Group status changed Menu = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 106044.
-Total: 51.119700 ms (FindLiveObjects: 3.917300 ms CreateObjectMapping: 6.124000 ms MarkObjects: 40.813200 ms  DeleteObjects: 0.264800 ms)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 105836.
+Total: 50.846300 ms (FindLiveObjects: 4.374500 ms CreateObjectMapping: 6.094600 ms MarkObjects: 40.114300 ms  DeleteObjects: 0.262500 ms)
 
-03/20/2022 11:25:01: UI Group status changed Menu = True
+05/30/2022 13:29:38: UI Group status changed Menu = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-03/20/2022 11:25:23: Steam manager on destroy
+05/30/2022 13:29:43: FOund selected Start game
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:29:43: show character selection
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:29:56: OnCharacterStart
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:17: Failed to get lobby gameserver
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:17: Censored server name 'Slutland' -> '****land'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:19: Button pressed Refresh  frame:2500
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:19: Failed to get lobby gameserver
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.069000 ms
+05/30/2022 13:30:23: Steam initialized, persona:Ward
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:23: Using default prefs
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:23: Loading player profile ward
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:23: Zonesystem Awake 2747
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:23: DungeonDB Awake 2747
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:23: Steam initialized, persona:Ward
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:23: Audioman already exist, destroying self
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:23: Checking for installed DLCs
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:23: DLC:beta installed:False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 538 unused Assets to reduce memory usage. Loaded Objects now: 106313.
+Total: 52.033500 ms (FindLiveObjects: 4.052500 ms CreateObjectMapping: 6.296100 ms MarkObjects: 40.610500 ms  DeleteObjects: 1.074000 ms)
+
+05/30/2022 13:30:26: Zonesystem Start 2747
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:26: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:26: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:26: DungeonDB Start 2747
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:26: Connecting to server 73.236.117.189:2456
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:26: Starting to connect to 73.236.117.189:2456
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:27: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:27: New connection
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:27: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:27: Connected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:27: Got connection SteamID 90159627063027720
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:31: VERSION check their:0.208.1  mine:0.208.1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:34: client got keys 5
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:34: client got location icons
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:34: Icons:2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:34: Session auth respons callback
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:41: Starting respawn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:41: tip:$loadscreen_tip03
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:45: Done fading color
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:45: Done fading color
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:45: Done fading color
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:50: Force generaeting hmap (-192.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:50: Force generaeting hmap (-128.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:50: Force generaeting hmap (0.0, 0.0, -128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:50: Force generaeting hmap (-192.0, 0.0, -64.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:50: Force generaeting hmap (-192.0, 0.0, 128.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:50: Minimap: Adding unique location (-57.5, 34.5, -5.9)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:50: Minimap: Adding unique location (2307.5, 51.0, 381.9)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:30:52: Resumed music meadows at 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:31:00: Spawned Greyling x 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:31:00: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:31:00: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:31:00: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:31:22: Setting selected recipe 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:31:22: UI Group status changed root = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:31:22: UI Group status changed Player = True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:42: Stopped music meadows at 4836018
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:45: UI Group status changed MenuRoot = False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Game - OnApplicationQuit
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Shuting down
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Uncompressed size 8388617
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Compressed size 8226
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: ZNet Shutdown
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Sending disconnect msg
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Sent to 90159627063027720
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Released session ticket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Closing socket 90159627063027720
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46:   send queue size:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Last socket, unregistering callback
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Disposing socket
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: Last socket, unregistering callback
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:46: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:48: Steam manager on destroy
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:49: FOund selected Button_yes
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:49: ZNet OnDestroy
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:49: Net scene destroyed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+05/30/2022 13:32:50: Local player destroyed
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
