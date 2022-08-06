@@ -24,12 +24,12 @@ then exit SteamCMD
 exit
 ```
 
-In order to make your dedicated server available to others, you'll need top open
+In order to make your dedicated server available to others, you'll need to open
 a few ports on your network. This varies by router, but I use Google WiFi which
 has a convenient app.
 
 `Settings` -> `Network & General` -> `Advanced networking` -> `Port management`
--> add the following ports:
+-> add the following ports for TCP and UDP:
 
 -   2456
 -   2457
