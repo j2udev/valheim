@@ -10,1091 +10,1706 @@ Direct3D:
     VRAM:     10077 MB
     Driver:   30.0.15.1215
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.093 seconds
+- Completed reload, in  0.393 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.486700 ms
-08/07/2022 14:55:06: Starting to load scene:start
+UnloadTime: 5.500700 ms
+08/09/2022 18:48:21: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.084100 ms
+UnloadTime: 5.237500 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-08/07/2022 14:55:10: Using environment steamid 892970
-08/07/2022 14:55:10: Using steam APPID:892970
-08/07/2022 14:55:10: Authentication:k_ESteamNetworkingAvailability_Attempting
-08/07/2022 14:55:10: Steam initialized, persona:Ward
-08/07/2022 14:55:10: Using default prefs
-08/07/2022 14:55:10: Valheim version:0.209.10
-08/07/2022 14:55:10: Render threading mode:MultiThreaded
-08/07/2022 14:55:10: Missing audio clip in music respawn
-08/07/2022 14:55:10: Checking for installed DLCs
-08/07/2022 14:55:10: DLC:beta installed:False
-08/07/2022 14:55:10: Builder started
-08/07/2022 14:55:10: Loaded localization CSV:localization language:English
-08/07/2022 14:55:10: Loaded localization CSV:localization_extra language:English
-08/07/2022 14:55:10: Loaded localization CSV:localization language:English
-08/07/2022 14:55:10: Loaded localization CSV:localization_extra language:English
-08/07/2022 14:55:10: UI Group status changed Menu = True
+08/09/2022 18:48:25: Using environment steamid 892970
+08/09/2022 18:48:25: Using steam APPID:892970
+08/09/2022 18:48:25: Authentication:k_ESteamNetworkingAvailability_Attempting
+08/09/2022 18:48:25: Steam initialized, persona:Ward
+08/09/2022 18:48:25: Using default prefs
+08/09/2022 18:48:25: Valheim version:0.209.10
+08/09/2022 18:48:25: Render threading mode:MultiThreaded
+08/09/2022 18:48:25: Missing audio clip in music respawn
+08/09/2022 18:48:25: Checking for installed DLCs
+08/09/2022 18:48:25: DLC:beta installed:False
+08/09/2022 18:48:25: Builder started
+08/09/2022 18:48:25: Loaded localization CSV:localization language:English
+08/09/2022 18:48:25: Loaded localization CSV:localization_extra language:English
+08/09/2022 18:48:25: Loaded localization CSV:localization language:English
+08/09/2022 18:48:25: Loaded localization CSV:localization_extra language:English
+08/09/2022 18:48:25: UI Group status changed Menu = True
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 106669.
-Total: 52.767200 ms (FindLiveObjects: 4.329400 ms CreateObjectMapping: 8.443400 ms MarkObjects: 39.865200 ms  DeleteObjects: 0.128800 ms)
+Total: 51.887900 ms (FindLiveObjects: 4.025000 ms CreateObjectMapping: 7.883900 ms MarkObjects: 39.838800 ms  DeleteObjects: 0.139800 ms)
 
-08/07/2022 14:55:12: UI Group status changed Menu = True
-08/07/2022 14:55:19: FOund selected Start game
-08/07/2022 14:55:19: show character selection
-08/07/2022 14:55:20: OnCharacterStart
-08/07/2022 14:55:23: Censored server name 'TITS2' -> '****2'
-08/07/2022 14:55:24: Censored server name 'MoonThatFuckingCake' -> 'MoonThat****ingCake'
-08/07/2022 14:55:27: Button pressed Refresh  frame:921
+08/09/2022 18:48:27: UI Group status changed Menu = True
+08/09/2022 18:48:42: FOund selected Start game
+08/09/2022 18:48:42: show character selection
+08/09/2022 18:49:47: OnCharacterStart
+08/09/2022 18:49:49: Failed to get lobby gameserver
+08/09/2022 18:49:49: Censored server name 'fuckjosh' -> '****josh'
+08/09/2022 18:49:50: Censored server name 'MoonThatFuckingCake' -> 'MoonThat****ingCake'
+08/09/2022 18:49:50: Button pressed Refresh  frame:5046
+08/09/2022 18:49:51: Failed to get lobby gameserver
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.974900 ms
-08/07/2022 14:55:31: Steam initialized, persona:Ward
-08/07/2022 14:55:31: Using default prefs
-08/07/2022 14:55:31: Loading player profile josh
-08/07/2022 14:55:31: isModded: False
-08/07/2022 14:55:31: Zonesystem Awake 1195
-08/07/2022 14:55:31: DungeonDB Awake 1195
-08/07/2022 14:55:31: Steam initialized, persona:Ward
-08/07/2022 14:55:31: Audioman already exist, destroying self
-08/07/2022 14:55:31: Checking for installed DLCs
-08/07/2022 14:55:31: DLC:beta installed:False
+UnloadTime: 7.356700 ms
+08/09/2022 18:49:55: Steam initialized, persona:Ward
+08/09/2022 18:49:55: Using default prefs
+08/09/2022 18:49:55: Loading player profile josh
+08/09/2022 18:49:55: isModded: False
+08/09/2022 18:49:55: Zonesystem Awake 5312
+08/09/2022 18:49:55: DungeonDB Awake 5312
+08/09/2022 18:49:55: Steam initialized, persona:Ward
+08/09/2022 18:49:55: Audioman already exist, destroying self
+08/09/2022 18:49:55: Checking for installed DLCs
+08/09/2022 18:49:55: DLC:beta installed:False
 
 Unloading 531 unused Assets to reduce memory usage. Loaded Objects now: 106396.
-Total: 54.222300 ms (FindLiveObjects: 3.904500 ms CreateObjectMapping: 7.961000 ms MarkObjects: 41.592200 ms  DeleteObjects: 0.764200 ms)
+Total: 52.840100 ms (FindLiveObjects: 3.825900 ms CreateObjectMapping: 7.651200 ms MarkObjects: 40.630600 ms  DeleteObjects: 0.731600 ms)
 
-08/07/2022 14:55:34: Zonesystem Start 1195
-08/07/2022 14:55:34: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
-08/07/2022 14:55:34: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
-08/07/2022 14:55:34: DungeonDB Start 1195
-08/07/2022 14:55:35: Connecting to server 73.154.158.85:2456
-08/07/2022 14:55:35: Starting to connect to 73.154.158.85:2456
-08/07/2022 14:55:35: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
-08/07/2022 14:55:35: New connection
-08/07/2022 14:55:35: Got status changed msg k_ESteamNetworkingConnectionState_Connected
-08/07/2022 14:55:35: Connected
-08/07/2022 14:55:35: Got connection SteamID 90162103108965384
-08/07/2022 14:55:43: VERSION check their:0.209.10  mine:0.209.10
-08/07/2022 14:55:45: client got keys 5
-08/07/2022 14:55:45: client got location icons
-08/07/2022 14:55:45: Icons:2
-08/07/2022 14:55:45: Session auth respons callback
-08/07/2022 14:55:52: Unpacking compressed mapdata 15425
-08/07/2022 14:55:52: Starting respawn
-08/07/2022 14:55:53: tip:$loadscreen_tip10
-08/07/2022 14:56:00: Done fading color
-08/07/2022 14:56:00: Done fading color
-08/07/2022 14:56:01: Done fading color
-08/07/2022 14:56:01: Force generaeting hmap (-192.0, 0.0, -192.0)
-08/07/2022 14:56:01: Force generaeting hmap (-192.0, 0.0, -128.0)
-08/07/2022 14:56:01: Force generaeting hmap (-192.0, 0.0, -64.0)
-08/07/2022 14:56:01: Force generaeting hmap (-192.0, 0.0, 0.0)
-08/07/2022 14:56:01: Force generaeting hmap (-192.0, 0.0, 64.0)
-08/07/2022 14:56:01: Force generaeting hmap (-64.0, 0.0, 64.0)
-08/07/2022 14:56:01: Force generaeting hmap (0.0, 0.0, 64.0)
-08/07/2022 14:56:02: Spawned after 9.040017
-08/07/2022 14:56:02: Minimap: Adding unique location (-57.5, 34.5, -5.9)
-08/07/2022 14:56:02: Minimap: Adding unique location (2307.5, 51.0, 381.9)
-08/07/2022 14:56:04: Resumed music meadows at 0
-08/07/2022 14:56:04: Stopped music meadows at 0
-08/07/2022 14:56:04: Resumed music home at 0
-08/07/2022 14:56:14: Stopped music home at 456159
-08/07/2022 14:56:14: Resumed music meadows at 0
-08/07/2022 14:56:17: Setting selected recipe 0
-08/07/2022 14:56:17: UI Group status changed root = True
-08/07/2022 14:56:17: UI Group status changed Player = True
-08/07/2022 14:56:21: Setting selected recipe 0
-08/07/2022 14:56:21: UI Group status changed root = True
-08/07/2022 14:56:21: UI Group status changed Player = True
-08/07/2022 14:56:34: Stopped music meadows at 883458
-08/07/2022 14:56:34: Resumed music home at 456159
-08/07/2022 14:56:36: Stopped music home at 538068
-08/07/2022 14:56:36: Resumed music meadows at 883458
-08/07/2022 14:56:37: Stopped music meadows at 946637
-08/07/2022 14:56:37: Resumed music home at 538068
-08/07/2022 14:56:40: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:56:40: Setting selected recipe 0
-08/07/2022 14:56:40: UI Group status changed root = True
-08/07/2022 14:56:40: UI Group status changed Player = True
-08/07/2022 14:56:40: UI Group status changed Container = False
-08/07/2022 14:56:41: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:56:41: Setting selected recipe 0
-08/07/2022 14:56:41: UI Group status changed root = True
-08/07/2022 14:56:41: UI Group status changed Player = True
-08/07/2022 14:56:50: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:56:50: Setting selected recipe 0
-08/07/2022 14:56:50: UI Group status changed root = True
-08/07/2022 14:56:50: UI Group status changed Player = True
-08/07/2022 14:56:52: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:56:52: Setting selected recipe 0
-08/07/2022 14:56:52: UI Group status changed root = True
-08/07/2022 14:56:52: UI Group status changed Player = True
-08/07/2022 14:56:52: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:56:52: Setting selected recipe 0
-08/07/2022 14:56:52: UI Group status changed root = True
-08/07/2022 14:56:52: UI Group status changed Player = True
-08/07/2022 14:56:53: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:56:53: Setting selected recipe 0
-08/07/2022 14:56:53: UI Group status changed root = True
-08/07/2022 14:56:53: UI Group status changed Player = True
-08/07/2022 14:56:58: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:56:58: Setting selected recipe 0
-08/07/2022 14:56:58: UI Group status changed root = True
-08/07/2022 14:56:58: UI Group status changed Player = True
-08/07/2022 14:57:06: Setting selected recipe 0
-08/07/2022 14:57:06: UI Group status changed root = True
-08/07/2022 14:57:06: UI Group status changed Player = True
-08/07/2022 14:57:06: Stopped music home at 1795611
-08/07/2022 14:57:06: Resumed music meadows at 946637
-08/07/2022 14:57:11: Stopped music meadows at 1160222
-08/07/2022 14:57:11: Resumed music home at 1795611
-08/07/2022 14:57:16: Stopped music home at 2001821
-08/07/2022 14:57:16: Resumed music home at 2001821
-08/07/2022 14:57:16: Setting selected recipe 0
-08/07/2022 14:57:16: UI Group status changed root = True
-08/07/2022 14:57:16: UI Group status changed Player = True
-08/07/2022 14:57:21: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:57:21: Setting selected recipe 0
-08/07/2022 14:57:21: UI Group status changed root = True
-08/07/2022 14:57:21: UI Group status changed Player = True
-08/07/2022 14:57:22: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:57:22: Setting selected recipe 0
-08/07/2022 14:57:22: UI Group status changed root = True
-08/07/2022 14:57:22: UI Group status changed Player = True
-08/07/2022 14:57:27: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:57:27: Setting selected recipe 0
-08/07/2022 14:57:27: UI Group status changed root = True
-08/07/2022 14:57:27: UI Group status changed Player = True
-08/07/2022 14:57:32: Item is not in this container
-08/07/2022 14:57:32: Setting selected recipe 0
-08/07/2022 14:57:38: Setting selected recipe 0
-08/07/2022 14:57:39: Setting selected recipe 0
-08/07/2022 14:57:43: Setting selected recipe 0
-08/07/2022 14:57:43: UI Group status changed root = True
-08/07/2022 14:57:43: UI Group status changed Player = True
-08/07/2022 14:57:47: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 14:57:47: Setting selected recipe 0
-08/07/2022 14:57:47: UI Group status changed root = True
-08/07/2022 14:57:47: UI Group status changed Player = True
-08/07/2022 14:57:54: Added to stack45 0
-08/07/2022 14:57:54: Setting selected recipe 0
-08/07/2022 14:57:56: UI Group status changed root = False
-08/07/2022 14:57:56: UI Group status changed Player = False
-08/07/2022 14:57:56: UI Group status changed root = True
-08/07/2022 14:57:56: UI Group status changed Player = True
-08/07/2022 14:57:57: Setting selected recipe 0
-08/07/2022 14:58:08: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:58:08: Setting selected recipe 1
-08/07/2022 14:58:08: UI Group status changed root = True
-08/07/2022 14:58:08: UI Group status changed Player = True
-08/07/2022 14:58:09: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:58:09: Setting selected recipe 1
-08/07/2022 14:58:09: UI Group status changed root = True
-08/07/2022 14:58:09: UI Group status changed Player = True
-08/07/2022 14:58:12: Setting selected recipe 1
-08/07/2022 14:58:12: UI Group status changed root = True
-08/07/2022 14:58:12: UI Group status changed Player = True
-08/07/2022 14:58:13: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 14:58:13: Setting selected recipe 1
-08/07/2022 14:58:13: UI Group status changed root = True
-08/07/2022 14:58:13: UI Group status changed Player = True
-08/07/2022 14:58:23: Stopped music home at 4963247
-08/07/2022 14:58:23: Resumed music meadows at 1160222
-08/07/2022 14:58:43: Setting selected recipe 1
-08/07/2022 14:58:43: UI Group status changed root = True
-08/07/2022 14:58:43: UI Group status changed Player = True
-08/07/2022 14:58:44: Drop item $item_carrot
-08/07/2022 14:58:44: drop all 1  1
-08/07/2022 14:58:44: Setting selected recipe 1
-08/07/2022 14:59:06: Setting selected recipe 1
-08/07/2022 14:59:07: UI Group status changed root = True
-08/07/2022 14:59:07: UI Group status changed Player = True
-08/07/2022 14:59:08: UI Group status changed root = False
-08/07/2022 14:59:08: UI Group status changed Player = False
-08/07/2022 14:59:08: UI Group status changed SplitDialog = True
-08/07/2022 14:59:09: UI Group status changed root = True
-08/07/2022 14:59:09: UI Group status changed Player = True
-08/07/2022 14:59:10: Drop item $item_mushroomcommon
-08/07/2022 14:59:10: drop some 3  5
-08/07/2022 14:59:10: Setting selected recipe 1
-08/07/2022 14:59:13: Setting selected recipe 1
-08/07/2022 14:59:13: UI Group status changed root = True
-08/07/2022 14:59:13: UI Group status changed Player = True
-08/07/2022 14:59:16: Drop item $item_mushroomcommon
-08/07/2022 14:59:16: drop all 2  2
-08/07/2022 14:59:16: Setting selected recipe 1
-08/07/2022 14:59:19: Setting selected recipe 1
-08/07/2022 14:59:19: UI Group status changed root = True
-08/07/2022 14:59:19: UI Group status changed Player = True
-08/07/2022 14:59:20: Drop item $item_mushroomcommon
-08/07/2022 14:59:20: drop all 3  3
-08/07/2022 14:59:20: Setting selected recipe 1
-08/07/2022 14:59:39: Force generaeting hmap (-64.0, 0.0, -320.0)
-08/07/2022 14:59:39: Force generaeting hmap (0.0, 0.0, -320.0)
-08/07/2022 14:59:39: Spawned Greyling x 1
-08/07/2022 15:00:16: Force generaeting hmap (-192.0, 0.0, -64.0)
-08/07/2022 15:00:16: Force generaeting hmap (-128.0, 0.0, -64.0)
-08/07/2022 15:01:24: Setting selected recipe 2
-08/07/2022 15:01:24: UI Group status changed root = True
-08/07/2022 15:01:24: UI Group status changed Player = True
-08/07/2022 15:01:41: Rel vel 1.356536
-08/07/2022 15:01:51: Rel vel 3.142752
-08/07/2022 15:02:48: Done fading color
-08/07/2022 15:02:49: Done fading color
-08/07/2022 15:02:49: Done fading color
-08/07/2022 15:03:04: Force generaeting hmap (-64.0, 0.0, -320.0)
-08/07/2022 15:03:04: Force generaeting hmap (0.0, 0.0, -320.0)
-08/07/2022 15:03:09: Rel vel 4.783575
-08/07/2022 15:03:21: Done fading color
-08/07/2022 15:03:21: Done fading color
-08/07/2022 15:03:21: Done fading color
-08/07/2022 15:03:32: Spawned Greyling x 1
-08/07/2022 15:03:56: Force generaeting hmap (-64.0, 0.0, -320.0)
-08/07/2022 15:03:56: Force generaeting hmap (0.0, 0.0, -320.0)
-08/07/2022 15:04:08: Done fading color
-08/07/2022 15:04:08: Done fading color
-08/07/2022 15:04:08: Done fading color
-08/07/2022 15:04:19: Rel vel 1.161469
-08/07/2022 15:04:37: Spawned Greyling x 1
-08/07/2022 15:04:48: Done fading color
-08/07/2022 15:04:48: Done fading color
-08/07/2022 15:04:48: Done fading color
-08/07/2022 15:05:34: Force generaeting hmap (-64.0, 0.0, -256.0)
-08/07/2022 15:05:34: Force generaeting hmap (0.0, 0.0, -256.0)
+08/09/2022 18:49:58: Zonesystem Start 5312
+08/09/2022 18:49:58: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+08/09/2022 18:49:58: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+08/09/2022 18:49:58: DungeonDB Start 5312
+08/09/2022 18:49:58: Connecting to server 73.154.158.85:2456
+08/09/2022 18:49:58: Starting to connect to 73.154.158.85:2456
+08/09/2022 18:49:58: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+08/09/2022 18:49:58: New connection
+08/09/2022 18:49:58: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+08/09/2022 18:49:58: Connected
+08/09/2022 18:49:58: Got connection SteamID 90162103108965384
+08/09/2022 18:50:03: VERSION check their:0.209.10  mine:0.209.10
+08/09/2022 18:50:06: client got keys 5
+08/09/2022 18:50:06: client got location icons
+08/09/2022 18:50:06: Icons:2
+08/09/2022 18:50:06: Session auth respons callback
+08/09/2022 18:50:12: Unpacking compressed mapdata 15425
+08/09/2022 18:50:12: Starting respawn
+08/09/2022 18:50:12: tip:$loadscreen_tip24
+08/09/2022 18:50:20: Done fading color
+08/09/2022 18:50:20: Done fading color
+08/09/2022 18:50:20: Done fading color
+08/09/2022 18:50:21: Force generaeting hmap (-192.0, 0.0, -192.0)
+08/09/2022 18:50:21: Force generaeting hmap (-192.0, 0.0, -128.0)
+08/09/2022 18:50:21: Force generaeting hmap (-192.0, 0.0, -64.0)
+08/09/2022 18:50:21: Force generaeting hmap (-192.0, 0.0, 0.0)
+08/09/2022 18:50:21: Force generaeting hmap (-192.0, 0.0, 64.0)
+08/09/2022 18:50:21: Spawned after 8.520005
+08/09/2022 18:50:21: Minimap: Adding unique location (-57.5, 34.5, -5.9)
+08/09/2022 18:50:21: Minimap: Adding unique location (2307.5, 51.0, 381.9)
+08/09/2022 18:50:23: Resumed music home at 0
+08/09/2022 18:50:27: Setting selected recipe 0
+08/09/2022 18:50:27: UI Group status changed root = True
+08/09/2022 18:50:27: UI Group status changed Player = True
+08/09/2022 18:50:31: Added to stack46 0
+08/09/2022 18:50:31: Setting selected recipe 0
+08/09/2022 18:50:42: Stopped music home at 830603
+08/09/2022 18:50:48: Resumed music home at 830603
+08/09/2022 18:50:52: Player -936330232 wants to open piece_chest(Clone)   im: -936330232
+08/09/2022 18:50:52: Setting selected recipe 0
+08/09/2022 18:50:52: UI Group status changed root = True
+08/09/2022 18:50:52: UI Group status changed Player = True
+08/09/2022 18:50:52: UI Group status changed Container = False
+08/09/2022 18:51:00: Setting selected recipe 0
+08/09/2022 18:51:30: Setting selected recipe 0
+08/09/2022 18:51:30: UI Group status changed root = True
+08/09/2022 18:51:30: UI Group status changed Player = True
+08/09/2022 18:51:43: Spawned Greydwarf_Elite x 1
+08/09/2022 18:51:47: Spawned Greydwarf x 1
+08/09/2022 18:52:03: Setting selected recipe 0
+08/09/2022 18:52:03: UI Group status changed root = True
+08/09/2022 18:52:03: UI Group status changed Player = True
+08/09/2022 18:52:11: Stopped music home at 4463827
+08/09/2022 18:52:11: Resumed music home at 4463827
+08/09/2022 18:52:14: Setting selected recipe 0
+08/09/2022 18:52:14: UI Group status changed root = True
+08/09/2022 18:52:14: UI Group status changed Player = True
+08/09/2022 18:52:22: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 18:52:22: Setting selected recipe 0
+08/09/2022 18:52:22: UI Group status changed root = True
+08/09/2022 18:52:22: UI Group status changed Player = True
+08/09/2022 18:52:23: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 18:52:23: Setting selected recipe 0
+08/09/2022 18:52:23: UI Group status changed root = True
+08/09/2022 18:52:23: UI Group status changed Player = True
+08/09/2022 18:52:23: Stopped music home at 5027926
+08/09/2022 18:52:24: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 18:52:24: Setting selected recipe 0
+08/09/2022 18:52:24: UI Group status changed root = True
+08/09/2022 18:52:24: UI Group status changed Player = True
+08/09/2022 18:52:27: Setting selected recipe 0
+08/09/2022 18:52:29: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 18:52:29: Setting selected recipe 0
+08/09/2022 18:52:29: UI Group status changed root = True
+08/09/2022 18:52:29: UI Group status changed Player = True
+08/09/2022 18:52:29: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 18:52:29: Setting selected recipe 0
+08/09/2022 18:52:29: UI Group status changed root = True
+08/09/2022 18:52:29: UI Group status changed Player = True
+08/09/2022 18:52:30: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 18:52:30: Setting selected recipe 0
+08/09/2022 18:52:31: UI Group status changed root = True
+08/09/2022 18:52:31: UI Group status changed Player = True
+08/09/2022 18:52:33: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 18:52:33: Setting selected recipe 0
+08/09/2022 18:52:33: UI Group status changed root = True
+08/09/2022 18:52:33: UI Group status changed Player = True
+08/09/2022 18:52:38: Resumed music home at 5027926
+08/09/2022 18:52:59: Setting selected recipe 0
+08/09/2022 18:52:59: UI Group status changed root = True
+08/09/2022 18:52:59: UI Group status changed Player = True
+08/09/2022 18:52:59: Stopped music home at 5974751
+08/09/2022 18:52:59: Resumed music home at 5974751
+08/09/2022 18:53:08: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 18:53:08: Setting selected recipe 0
+08/09/2022 18:53:08: UI Group status changed root = True
+08/09/2022 18:53:08: UI Group status changed Player = True
+08/09/2022 18:53:09: Stopped music home at 6373388
+08/09/2022 18:53:09: Resumed music home at 6373388
+08/09/2022 18:53:13: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 18:53:13: Setting selected recipe 0
+08/09/2022 18:53:13: UI Group status changed root = True
+08/09/2022 18:53:13: UI Group status changed Player = True
+08/09/2022 18:53:21: Stopped music home at 6930256
+08/09/2022 18:53:21: Resumed music home at 6930256
+08/09/2022 18:53:26: Stopped music home at 7140111
+08/09/2022 18:53:27: Spawned Greydwarf x 1
+08/09/2022 18:53:32: Setting selected recipe 0
+08/09/2022 18:53:32: UI Group status changed root = True
+08/09/2022 18:53:32: UI Group status changed Player = True
+08/09/2022 18:53:35: Poison damage: 22.18725 ttl:5.710335 hits:5 dmg perhit:4.437451
+08/09/2022 18:54:05: Setting selected recipe 0
+08/09/2022 18:54:05: UI Group status changed root = True
+08/09/2022 18:54:05: UI Group status changed Player = True
+08/09/2022 18:54:08: Drop item $item_trophy_deer
+08/09/2022 18:54:08: drop all 1  1
+08/09/2022 18:54:08: Setting selected recipe 0
+08/09/2022 18:54:22: Setting selected recipe 0
+08/09/2022 18:54:22: UI Group status changed root = True
+08/09/2022 18:54:22: UI Group status changed Player = True
+08/09/2022 18:54:25: Setting selected recipe 0
+08/09/2022 18:54:25: UI Group status changed root = True
+08/09/2022 18:54:25: UI Group status changed Player = True
+08/09/2022 18:54:39: Spawned Greydwarf_Shaman x 1
+08/09/2022 18:54:39: Spawned Skeleton x 1
+08/09/2022 18:54:39: Spawned Greydwarf x 1
+08/09/2022 18:54:41: Setting selected recipe 0
+08/09/2022 18:54:41: UI Group status changed root = True
+08/09/2022 18:54:41: UI Group status changed Player = True
+08/09/2022 18:55:04: Disabling PlayerBase  character_trigger
+08/09/2022 18:55:20: Disabling PlayerBase  character_trigger
+08/09/2022 18:55:30: Disabling PlayerBase  character_trigger
+08/09/2022 18:56:34: Placed wood_pole
+08/09/2022 18:56:36: Placed wood_pole
+08/09/2022 18:56:39: Placed wood_pole
+08/09/2022 18:56:44: Disabling PlayerBase  character_trigger
+08/09/2022 18:56:52: Spawned Greydwarf x 1
+08/09/2022 18:57:01: Placed piece_workbench
+08/09/2022 18:57:01: Disabling PlayerBase  character_trigger
+08/09/2022 18:57:37: Poison damage: 23.10997 ttl:5.807283 hits:5 dmg perhit:4.621995
+08/09/2022 18:57:56: Placed wood_pole
+08/09/2022 18:58:02: Placed wood_beam
+08/09/2022 18:58:05: Placed wood_beam
+08/09/2022 18:58:10: Placed wood_pole
+08/09/2022 18:58:32: Spawned Skeleton x 2
+08/09/2022 18:58:33: Placed wood_beam
+08/09/2022 18:58:35: Valid True
+08/09/2022 18:58:35: On death False
+08/09/2022 18:58:39: Placed wood_beam
+08/09/2022 18:58:50: Disabling PlayerBase  character_trigger
+08/09/2022 18:58:52: Placed piece_workbench
+08/09/2022 18:58:52: Disabling PlayerBase  character_trigger
+08/09/2022 18:58:59: Placed wood_pole
+08/09/2022 18:59:00: Placed wood_pole
+08/09/2022 18:59:01: Placed wood_pole
+08/09/2022 18:59:04: Placed wood_beam
+08/09/2022 18:59:05: Placed wood_beam
+08/09/2022 18:59:13: Placed wood_floor
+08/09/2022 18:59:14: Placed wood_floor
+08/09/2022 18:59:31: Placed wood_pole_log
+08/09/2022 18:59:34: Placed wood_pole_log
+08/09/2022 18:59:37: Placed wood_pole_log
+08/09/2022 18:59:38: Placed wood_pole_log
+08/09/2022 18:59:43: Disabling PlayerBase  character_trigger
+08/09/2022 18:59:51: Placed piece_workbench
+08/09/2022 18:59:51: Disabling PlayerBase  character_trigger
+08/09/2022 19:00:06: Placed wood_stair
+08/09/2022 19:00:07: Placed wood_stair
 Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 920 unused Assets to reduce memory usage. Loaded Objects now: 1929032.
-Total: 562.272200 ms (FindLiveObjects: 116.204700 ms CreateObjectMapping: 25.396000 ms MarkObjects: 417.867500 ms  DeleteObjects: 2.803800 ms)
+Unloading 4927 unused Assets to reduce memory usage. Loaded Objects now: 1944203.
+Total: 560.436800 ms (FindLiveObjects: 109.680300 ms CreateObjectMapping: 26.327100 ms MarkObjects: 412.083800 ms  DeleteObjects: 12.344900 ms)
 
-08/07/2022 15:05:51: Stopped music meadows at 1498399
-08/07/2022 15:05:57: Stopped music home at 267907
-08/07/2022 15:05:57: Resumed music meadows at 1498399
-08/07/2022 15:05:57: Stopped music meadows at 1498399
-08/07/2022 15:05:57: Resumed music home at 267907
-08/07/2022 15:05:58: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:05:58: Setting selected recipe 2
-08/07/2022 15:05:58: UI Group status changed root = True
-08/07/2022 15:05:58: UI Group status changed Player = True
-08/07/2022 15:06:08: Stopped music home at 726985
-08/07/2022 15:06:08: Resumed music meadows at 1498399
-08/07/2022 15:07:07: Setting selected recipe 2
-08/07/2022 15:07:07: UI Group status changed root = True
-08/07/2022 15:07:07: UI Group status changed Player = True
-08/07/2022 15:07:28: Setting selected recipe 2
-08/07/2022 15:07:28: UI Group status changed root = True
-08/07/2022 15:07:28: UI Group status changed Player = True
-08/07/2022 15:07:43: Setting selected recipe 2
-08/07/2022 15:07:43: UI Group status changed root = True
-08/07/2022 15:07:43: UI Group status changed Player = True
-08/07/2022 15:07:55: Setting selected recipe 2
-08/07/2022 15:07:55: UI Group status changed root = True
-08/07/2022 15:07:55: UI Group status changed Player = True
-08/07/2022 15:07:58: Drop item $item_trophy_deer
-08/07/2022 15:07:58: drop all 1  1
-08/07/2022 15:07:58: Setting selected recipe 2
-08/07/2022 15:08:41: Setting selected recipe 2
-08/07/2022 15:08:41: UI Group status changed root = True
-08/07/2022 15:08:41: UI Group status changed Player = True
-08/07/2022 15:08:43: Stopped music meadows at 8351903
-08/07/2022 15:08:43: Resumed music home at 726985
-08/07/2022 15:08:49: Stopped music home at 1010846
-08/07/2022 15:08:49: Resumed music home at 1010846
-08/07/2022 15:08:50: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:08:50: Setting selected recipe 2
-08/07/2022 15:08:50: UI Group status changed root = True
-08/07/2022 15:08:50: UI Group status changed Player = True
-08/07/2022 15:08:55: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:08:55: Setting selected recipe 0
-08/07/2022 15:08:55: UI Group status changed root = True
-08/07/2022 15:08:55: UI Group status changed Player = True
-08/07/2022 15:09:06: Stopped music home at 1752445
-08/07/2022 15:09:06: Resumed music home at 1752445
-08/07/2022 15:09:12: Setting selected recipe 0
-08/07/2022 15:09:12: UI Group status changed root = True
-08/07/2022 15:09:12: UI Group status changed Player = True
-08/07/2022 15:09:13: Stopped music home at 2065124
-08/07/2022 15:09:13: Resumed music meadows at 8351903
-08/07/2022 15:09:33: Force generaeting hmap (-64.0, 0.0, -320.0)
-08/07/2022 15:09:33: Force generaeting hmap (0.0, 0.0, -320.0)
-08/07/2022 15:09:33: Spawned Greyling x 1
-08/07/2022 15:09:39: Force generaeting hmap (-64.0, 0.0, -320.0)
-08/07/2022 15:09:39: Force generaeting hmap (0.0, 0.0, -320.0)
-08/07/2022 15:09:50: Done fading color
-08/07/2022 15:09:50: Done fading color
-08/07/2022 15:09:51: Done fading color
-08/07/2022 15:09:51: Setting selected recipe 2
-08/07/2022 15:09:51: UI Group status changed root = True
-08/07/2022 15:09:51: UI Group status changed Player = True
-08/07/2022 15:10:03: Force generaeting hmap (-64.0, 0.0, -320.0)
-08/07/2022 15:10:03: Force generaeting hmap (0.0, 0.0, -320.0)
-08/07/2022 15:10:03: Force generaeting hmap (-64.0, 0.0, -320.0)
-08/07/2022 15:10:03: Force generaeting hmap (0.0, 0.0, -320.0)
-08/07/2022 15:10:18: Poison damage: 32.20161 ttl:6.674647 hits:6 dmg perhit:5.366936
-08/07/2022 15:10:24: Done fading color
-08/07/2022 15:10:24: Done fading color
-08/07/2022 15:10:24: Done fading color
-08/07/2022 15:11:13: Setting selected recipe 2
-08/07/2022 15:11:13: UI Group status changed root = True
-08/07/2022 15:11:13: UI Group status changed Player = True
-08/07/2022 15:11:18: Setting selected recipe 15
-08/07/2022 15:11:18: UI Group status changed root = True
-08/07/2022 15:11:18: UI Group status changed Player = True
-08/07/2022 15:11:19: Stopped music meadows at 4175582
-08/07/2022 15:11:19: Resumed music home at 2065124
-08/07/2022 15:11:23: Setting selected recipe 1
-08/07/2022 15:11:25: Setting selected recipe 0
-08/07/2022 15:11:29: Setting selected recipe 1
-08/07/2022 15:11:35: Setting selected recipe 1
-08/07/2022 15:11:37: Setting selected recipe 1
-08/07/2022 15:11:40: Setting selected recipe 1
-08/07/2022 15:11:42: Setting selected recipe 1
-08/07/2022 15:11:42: Setting selected recipe 0
-08/07/2022 15:11:58: Setting selected recipe 10
-08/07/2022 15:12:01: Setting selected recipe 13
-08/07/2022 15:12:09: Setting selected recipe 12
-08/07/2022 15:12:10: Setting selected recipe 13
-08/07/2022 15:12:13: Setting selected recipe 12
-08/07/2022 15:12:29: Setting selected recipe 37
-08/07/2022 15:12:43: Setting selected recipe 24
-08/07/2022 15:12:55: Setting selected recipe 13
-08/07/2022 15:12:56: Setting selected recipe 12
-08/07/2022 15:12:57: Setting selected recipe 13
-08/07/2022 15:13:02: Setting selected recipe 12
-08/07/2022 15:13:04: Setting selected recipe 10
-08/07/2022 15:13:05: Setting selected recipe 11
-08/07/2022 15:13:12: Setting selected recipe 0
-08/07/2022 15:13:47: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:13:47: Setting selected recipe 0
-08/07/2022 15:13:47: UI Group status changed root = True
-08/07/2022 15:13:47: UI Group status changed Player = True
-08/07/2022 15:13:50: Setting selected recipe 2
-08/07/2022 15:13:51: UI Group status changed root = True
-08/07/2022 15:13:51: UI Group status changed Player = True
-08/07/2022 15:13:52: Setting selected recipe 0
-08/07/2022 15:13:55: Setting selected recipe 9
-08/07/2022 15:13:57: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:13:57: Setting selected recipe 0
-08/07/2022 15:13:58: UI Group status changed root = True
-08/07/2022 15:13:58: UI Group status changed Player = True
-08/07/2022 15:13:59: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:13:59: Setting selected recipe 0
-08/07/2022 15:13:59: UI Group status changed root = True
-08/07/2022 15:13:59: UI Group status changed Player = True
-08/07/2022 15:14:02: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:14:02: Setting selected recipe 0
-08/07/2022 15:14:02: UI Group status changed root = True
-08/07/2022 15:14:02: UI Group status changed Player = True
-08/07/2022 15:14:05: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:14:05: Setting selected recipe 0
-08/07/2022 15:14:05: UI Group status changed root = True
-08/07/2022 15:14:05: UI Group status changed Player = True
-08/07/2022 15:14:07: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:14:07: Setting selected recipe 0
-08/07/2022 15:14:07: UI Group status changed root = True
-08/07/2022 15:14:07: UI Group status changed Player = True
-08/07/2022 15:14:11: Setting selected recipe 0
-08/07/2022 15:14:13: Item is not in this container
-08/07/2022 15:14:13: Setting selected recipe 0
-08/07/2022 15:14:14: Item is not in this container
-08/07/2022 15:14:14: Setting selected recipe 0
-08/07/2022 15:14:15: Item is not in this container
-08/07/2022 15:14:15: Setting selected recipe 0
-08/07/2022 15:14:16: Item is not in this container
-08/07/2022 15:14:16: Setting selected recipe 0
-08/07/2022 15:14:16: Stopped music home at 1749836
-08/07/2022 15:14:17: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:14:17: Setting selected recipe 0
-08/07/2022 15:14:17: UI Group status changed root = True
-08/07/2022 15:14:17: UI Group status changed Player = True
-08/07/2022 15:14:19: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:14:19: Setting selected recipe 0
-08/07/2022 15:14:19: UI Group status changed root = True
-08/07/2022 15:14:19: UI Group status changed Player = True
-08/07/2022 15:14:25: Setting selected recipe 2
-08/07/2022 15:14:25: UI Group status changed root = True
-08/07/2022 15:14:25: UI Group status changed Player = True
-08/07/2022 15:14:26: Setting selected recipe 0
-08/07/2022 15:14:29: Setting selected recipe 0
-08/07/2022 15:14:31: Setting selected recipe 9
-08/07/2022 15:14:34: Setting selected recipe 13
-08/07/2022 15:14:38: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:14:38: Setting selected recipe 0
-08/07/2022 15:14:38: UI Group status changed root = True
-08/07/2022 15:14:38: UI Group status changed Player = True
-08/07/2022 15:14:41: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:14:41: Setting selected recipe 0
-08/07/2022 15:14:41: UI Group status changed root = True
-08/07/2022 15:14:41: UI Group status changed Player = True
-08/07/2022 15:14:47: Setting selected recipe 0
-08/07/2022 15:14:54: Setting selected recipe 0
-08/07/2022 15:14:54: UI Group status changed root = True
-08/07/2022 15:14:54: UI Group status changed Player = True
-08/07/2022 15:15:02: Resumed music home at 1749836
-08/07/2022 15:15:03: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:03: Setting selected recipe 0
-08/07/2022 15:15:03: UI Group status changed root = True
-08/07/2022 15:15:03: UI Group status changed Player = True
-08/07/2022 15:15:04: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:04: Setting selected recipe 0
-08/07/2022 15:15:04: UI Group status changed root = True
-08/07/2022 15:15:04: UI Group status changed Player = True
-08/07/2022 15:15:16: Spawned Greydwarf_Elite x 1
-08/07/2022 15:15:18: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:18: Setting selected recipe 0
-08/07/2022 15:15:18: UI Group status changed root = True
-08/07/2022 15:15:18: UI Group status changed Player = True
-08/07/2022 15:15:22: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:22: Setting selected recipe 1
-08/07/2022 15:15:22: UI Group status changed root = True
-08/07/2022 15:15:22: UI Group status changed Player = True
-08/07/2022 15:15:23: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:23: Setting selected recipe 1
-08/07/2022 15:15:23: UI Group status changed root = True
-08/07/2022 15:15:23: UI Group status changed Player = True
-08/07/2022 15:15:36: Stopped music home at 3210940
-08/07/2022 15:15:36: Resumed music home at 3210940
-08/07/2022 15:15:39: Setting selected recipe 1
-08/07/2022 15:15:39: UI Group status changed root = True
-08/07/2022 15:15:39: UI Group status changed Player = True
-08/07/2022 15:15:42: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:42: Setting selected recipe 1
-08/07/2022 15:15:42: UI Group status changed root = True
-08/07/2022 15:15:42: UI Group status changed Player = True
-08/07/2022 15:15:43: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:43: Setting selected recipe 1
-08/07/2022 15:15:43: UI Group status changed root = True
-08/07/2022 15:15:43: UI Group status changed Player = True
-08/07/2022 15:15:43: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:43: Setting selected recipe 1
-08/07/2022 15:15:43: UI Group status changed root = True
-08/07/2022 15:15:43: UI Group status changed Player = True
-08/07/2022 15:15:46: Uncompressed size 8392769
-08/07/2022 15:15:46: Compressed size 15425
+08/09/2022 19:00:12: Placed wood_stair
+08/09/2022 19:00:16: Placed wood_stair
+08/09/2022 19:00:17: Placed wood_stair
+08/09/2022 19:00:21: Placed wood_stair
+08/09/2022 19:00:44: Placed wood_beam
+08/09/2022 19:00:46: Placed wood_beam
+08/09/2022 19:00:49: Placed wood_beam
+08/09/2022 19:00:51: Placed wood_beam
+08/09/2022 19:00:56: Placed wood_beam
+08/09/2022 19:00:56: Placed wood_beam
+08/09/2022 19:01:01: Placed wood_beam
+08/09/2022 19:01:14: Placed wood_beam_26
+08/09/2022 19:01:16: Placed wood_beam_26
+08/09/2022 19:01:20: Placed wood_beam_26
+08/09/2022 19:01:23: Placed wood_beam_26
+08/09/2022 19:01:29: Placed woodwall
+08/09/2022 19:01:33: Placed woodwall
+08/09/2022 19:01:42: Placed wood_wall_roof_top_45
+08/09/2022 19:01:48: Placed wood_wall_roof_top_45
+08/09/2022 19:01:54: Placed wood_roof
+08/09/2022 19:01:56: Placed wood_roof
+08/09/2022 19:02:00: Placed wood_roof
+08/09/2022 19:02:02: Placed wood_roof
+08/09/2022 19:02:13: Placed wood_roof_top_45
+08/09/2022 19:02:16: Placed wood_roof_top_45
+08/09/2022 19:02:39: Setting selected recipe 1
+08/09/2022 19:02:39: UI Group status changed root = True
+08/09/2022 19:02:39: UI Group status changed Player = True
+08/09/2022 19:03:45: Placed woodwall
+08/09/2022 19:03:51: Placed woodwall
+08/09/2022 19:03:59: Placed woodwall
+08/09/2022 19:04:00: Placed woodwall
+08/09/2022 19:04:05: Placed wood_roof_top_45
+08/09/2022 19:04:27: Placed wood_door
+08/09/2022 19:04:41: Setting selected recipe 1
+08/09/2022 19:04:41: UI Group status changed root = True
+08/09/2022 19:04:41: UI Group status changed Player = True
+08/09/2022 19:05:11: Placed wood_pole_log
+08/09/2022 19:05:14: Placed wood_pole_log
+08/09/2022 19:05:32: Setting selected recipe 1
+08/09/2022 19:05:32: UI Group status changed root = True
+08/09/2022 19:05:32: UI Group status changed Player = True
+08/09/2022 19:05:33: Setting selected recipe 1
+08/09/2022 19:05:33: UI Group status changed root = True
+08/09/2022 19:05:33: UI Group status changed Player = True
+08/09/2022 19:06:07: Placed wood_beam_26
+08/09/2022 19:06:08: Placed wood_beam_26
+08/09/2022 19:06:12: Placed wood_beam_26
+08/09/2022 19:06:15: Placed wood_beam_26
+08/09/2022 19:06:22: Setting selected recipe 1
+08/09/2022 19:06:22: UI Group status changed root = True
+08/09/2022 19:06:22: UI Group status changed Player = True
+08/09/2022 19:06:36: Placed wood_pole_log
+08/09/2022 19:06:52: Placed wood_beam
+08/09/2022 19:07:01: Placed wood_pole_log
+08/09/2022 19:07:06: Placed wood_pole_log
+08/09/2022 19:07:13: Placed wood_pole_log
+08/09/2022 19:07:25: Disabling PlayerBase  character_trigger
+08/09/2022 19:07:28: Disabling PlayerBase  character_trigger
+08/09/2022 19:07:37: Placed wood_wall_roof_top_45
+08/09/2022 19:07:46: Placed wood_wall_log
+08/09/2022 19:08:04: Placed wood_log_26
+08/09/2022 19:08:11: Placed wood_log_26
+08/09/2022 19:08:22: Placed wood_beam
+08/09/2022 19:08:27: Placed wood_beam
+08/09/2022 19:08:40: Placed wood_log_26
+08/09/2022 19:08:46: Placed wood_log_26
+08/09/2022 19:08:49: Placed wood_log_26
+08/09/2022 19:08:52: Placed wood_log_26
+08/09/2022 19:08:54: Placed wood_log_26
+08/09/2022 19:08:58: Placed wood_log_26
+08/09/2022 19:09:11: Placed wood_door
+08/09/2022 19:09:23: Setting selected recipe 0
+08/09/2022 19:09:23: UI Group status changed root = True
+08/09/2022 19:09:23: UI Group status changed Player = True
+08/09/2022 19:09:33: Placed wood_roof_top_45
+08/09/2022 19:09:38: Placed wood_wall_roof_top_45
+08/09/2022 19:09:42: Placed wood_beam
+08/09/2022 19:10:04: Placed wood_beam
+08/09/2022 19:10:08: Uncompressed size 8392769
+08/09/2022 19:10:09: Compressed size 15425
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 1163 unused Assets to reduce memory usage. Loaded Objects now: 1953312.
-Total: 607.291200 ms (FindLiveObjects: 115.294200 ms CreateObjectMapping: 26.426200 ms MarkObjects: 461.770600 ms  DeleteObjects: 3.799700 ms)
+Unloading 12555 unused Assets to reduce memory usage. Loaded Objects now: 1945166.
+Total: 584.550500 ms (FindLiveObjects: 109.095900 ms CreateObjectMapping: 26.563700 ms MarkObjects: 414.348000 ms  DeleteObjects: 34.542500 ms)
 
-08/07/2022 15:15:48: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:48: Setting selected recipe 1
-08/07/2022 15:15:48: UI Group status changed root = True
-08/07/2022 15:15:48: UI Group status changed Player = True
-08/07/2022 15:15:49: Spawned Greydwarf x 1
-08/07/2022 15:15:52: Item is not in this container
-08/07/2022 15:15:52: Setting selected recipe 1
-08/07/2022 15:15:55: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:55: Setting selected recipe 1
-08/07/2022 15:15:55: UI Group status changed root = True
-08/07/2022 15:15:55: UI Group status changed Player = True
-08/07/2022 15:15:56: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:56: Setting selected recipe 1
-08/07/2022 15:15:56: UI Group status changed root = True
-08/07/2022 15:15:56: UI Group status changed Player = True
-08/07/2022 15:15:57: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:57: Setting selected recipe 1
-08/07/2022 15:15:57: UI Group status changed root = True
-08/07/2022 15:15:57: UI Group status changed Player = True
-08/07/2022 15:15:58: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:15:58: Setting selected recipe 1
-08/07/2022 15:15:58: UI Group status changed root = True
-08/07/2022 15:15:58: UI Group status changed Player = True
-08/07/2022 15:16:06: Stopped music home at 4554535
-08/07/2022 15:16:13: Spawned Skeleton x 3
-08/07/2022 15:16:25: Spawned Greydwarf_Shaman x 1
-08/07/2022 15:16:25: Spawned Greydwarf x 1
-08/07/2022 15:16:46: Setting selected recipe 1
-08/07/2022 15:16:46: UI Group status changed root = True
-08/07/2022 15:16:46: UI Group status changed Player = True
-08/07/2022 15:17:13: Random event set:foresttrolls
-08/07/2022 15:17:13: Setting selected recipe 1
-08/07/2022 15:17:13: UI Group status changed root = True
-08/07/2022 15:17:13: UI Group status changed Player = True
-08/07/2022 15:17:17: Spawned Troll x 1
-08/07/2022 15:17:17: Spawned Troll x 1
-08/07/2022 15:17:17: Drop item $item_carrot
-08/07/2022 15:17:17: drop all 4  4
-08/07/2022 15:17:17: Setting selected recipe 1
-08/07/2022 15:17:26: Poison damage: 12.73491 ttl:4.568601 hits:4 dmg perhit:3.183728
-08/07/2022 15:17:27: Setting selected recipe 1
-08/07/2022 15:17:27: UI Group status changed root = True
-08/07/2022 15:17:27: UI Group status changed Player = True
-08/07/2022 15:17:28: Spawned Seagal x 1
-08/07/2022 15:17:28: Spawned Skeleton x 3
-08/07/2022 15:17:49: Poison damage: 10.6756 ttl:4.267353 hits:4 dmg perhit:2.668899
-08/07/2022 15:17:54: Poison damage: 10.74475 ttl:4.277918 hits:4 dmg perhit:2.686187
-08/07/2022 15:17:56: Poison damage: 10.60053 ttl:4.255846 hits:4 dmg perhit:2.650133
-08/07/2022 15:18:00: Poison damage: 9.41098 ttl:4.067732 hits:4 dmg perhit:2.352745
-08/07/2022 15:18:11: Poison damage: 11.17493 ttl:4.342893 hits:4 dmg perhit:2.793733
-08/07/2022 15:18:15: Poison damage: 13.43679 ttl:4.665623 hits:4 dmg perhit:3.359197
-08/07/2022 15:18:22: Poison damage: 10.43731 ttl:4.230682 hits:4 dmg perhit:2.609327
-08/07/2022 15:18:26: Poison damage: 8.822621 ttl:3.97029 hits:3 dmg perhit:2.940874
-08/07/2022 15:18:35: Poison damage: 8.273741 ttl:3.876411 hits:3 dmg perhit:2.757914
-08/07/2022 15:18:38: Stopped music CombatEventL2 at 3745292
-08/07/2022 15:18:38: Poison damage: 10.58708 ttl:4.25378 hits:4 dmg perhit:2.646771
-08/07/2022 15:18:42: Poison damage: 14.96317 ttl:4.868226 hits:4 dmg perhit:3.740793
-08/07/2022 15:18:48: Poison damage: 13.31761 ttl:4.649329 hits:4 dmg perhit:3.329401
-08/07/2022 15:18:52: Poison damage: 12.22685 ttl:4.496692 hits:4 dmg perhit:3.056713
-08/07/2022 15:18:58: Poison damage: 9.962289 ttl:4.156309 hits:4 dmg perhit:2.490572
-08/07/2022 15:19:00: Poison damage: 10.41954 ttl:4.227931 hits:4 dmg perhit:2.604885
-08/07/2022 15:19:22: Setting selected recipe 1
-08/07/2022 15:19:22: UI Group status changed root = True
-08/07/2022 15:19:22: UI Group status changed Player = True
-08/07/2022 15:19:33: Setting selected recipe 1
-08/07/2022 15:19:33: UI Group status changed root = True
-08/07/2022 15:19:33: UI Group status changed Player = True
-08/07/2022 15:19:45: Spawned Deer x 1
-08/07/2022 15:19:45: Spawned Greydwarf x 1
-08/07/2022 15:19:49: Spawned Skeleton x 2
-08/07/2022 15:19:49: Spawned Greyling x 1
-08/07/2022 15:20:15: Resumed music home at 4554535
-08/07/2022 15:20:19: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:20:19: Setting selected recipe 2
-08/07/2022 15:20:19: UI Group status changed root = True
-08/07/2022 15:20:19: UI Group status changed Player = True
-08/07/2022 15:20:21: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:20:21: Setting selected recipe 2
-08/07/2022 15:20:21: UI Group status changed root = True
-08/07/2022 15:20:21: UI Group status changed Player = True
-08/07/2022 15:20:22: UI Group status changed root = False
-08/07/2022 15:20:22: UI Group status changed Player = False
-08/07/2022 15:20:22: UI Group status changed SplitDialog = True
-08/07/2022 15:20:27: UI Group status changed root = True
-08/07/2022 15:20:27: UI Group status changed Player = True
-08/07/2022 15:20:28: Setting selected recipe 2
-08/07/2022 15:20:34: Stopped music home at 5374144
-08/07/2022 15:20:42: Setting selected recipe 2
-08/07/2022 15:20:42: UI Group status changed root = True
-08/07/2022 15:20:42: UI Group status changed Player = True
-08/07/2022 15:20:43: UI Group status changed root = False
-08/07/2022 15:20:43: UI Group status changed Player = False
-08/07/2022 15:20:43: UI Group status changed SplitDialog = True
-08/07/2022 15:20:47: UI Group status changed root = True
-08/07/2022 15:20:47: UI Group status changed Player = True
-08/07/2022 15:20:48: Drop item $item_carrot
-08/07/2022 15:20:48: drop some 5  14
-08/07/2022 15:20:48: Setting selected recipe 2
-08/07/2022 15:20:52: UI Group status changed root = False
-08/07/2022 15:20:52: UI Group status changed Player = False
-08/07/2022 15:20:52: UI Group status changed SplitDialog = True
-08/07/2022 15:20:53: UI Group status changed root = True
-08/07/2022 15:20:53: UI Group status changed Player = True
-08/07/2022 15:20:53: Drop item $item_carrot
-08/07/2022 15:20:53: drop some 5  9
-08/07/2022 15:20:53: Setting selected recipe 2
-08/07/2022 15:21:02: Setting selected recipe 2
-08/07/2022 15:21:02: UI Group status changed root = True
-08/07/2022 15:21:02: UI Group status changed Player = True
-08/07/2022 15:21:04: UI Group status changed root = False
-08/07/2022 15:21:04: UI Group status changed Player = False
-08/07/2022 15:21:04: UI Group status changed SplitDialog = True
-08/07/2022 15:21:06: UI Group status changed root = True
-08/07/2022 15:21:06: UI Group status changed Player = True
-08/07/2022 15:21:06: Drop item $item_carrot
-08/07/2022 15:21:06: drop some 5  14
-08/07/2022 15:21:06: Setting selected recipe 2
-08/07/2022 15:21:13: Setting selected recipe 2
-08/07/2022 15:21:13: UI Group status changed root = True
-08/07/2022 15:21:13: UI Group status changed Player = True
-08/07/2022 15:21:14: UI Group status changed root = False
-08/07/2022 15:21:14: UI Group status changed Player = False
-08/07/2022 15:21:14: UI Group status changed SplitDialog = True
-08/07/2022 15:21:15: UI Group status changed root = True
-08/07/2022 15:21:15: UI Group status changed Player = True
-08/07/2022 15:21:16: Drop item $item_carrot
-08/07/2022 15:21:16: drop some 5  9
-08/07/2022 15:21:16: Setting selected recipe 2
-08/07/2022 15:21:26: Setting selected recipe 21
-08/07/2022 15:21:26: UI Group status changed root = True
-08/07/2022 15:21:26: UI Group status changed Player = True
-08/07/2022 15:21:41: Poison damage: 13.82741 ttl:4.718522 hits:4 dmg perhit:3.456851
-08/07/2022 15:22:01: Spawned Skeleton x 1
-08/07/2022 15:22:01: Spawned Greydwarf x 1
-08/07/2022 15:22:01: Spawned Greyling x 1
-08/07/2022 15:22:09: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:22:09: Setting selected recipe 2
-08/07/2022 15:22:09: UI Group status changed root = True
-08/07/2022 15:22:09: UI Group status changed Player = True
-08/07/2022 15:22:10: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:22:10: Setting selected recipe 2
-08/07/2022 15:22:10: UI Group status changed root = True
-08/07/2022 15:22:10: UI Group status changed Player = True
-08/07/2022 15:22:29: Valid True
-08/07/2022 15:22:29: On death False
-08/07/2022 15:22:31: Valid True
-08/07/2022 15:22:31: On death False
-08/07/2022 15:22:40: Setting selected recipe 2
-08/07/2022 15:22:40: UI Group status changed root = True
-08/07/2022 15:22:40: UI Group status changed Player = True
-08/07/2022 15:22:45: Drop item $item_bonefragments
-08/07/2022 15:22:45: drop all 4  4
-08/07/2022 15:22:45: Setting selected recipe 2
-08/07/2022 15:22:47: Drop item $item_trophy_deer
-08/07/2022 15:22:47: drop all 2  2
-08/07/2022 15:22:47: Setting selected recipe 2
-08/07/2022 15:22:55: Setting selected recipe 2
-08/07/2022 15:22:55: UI Group status changed root = True
-08/07/2022 15:22:55: UI Group status changed Player = True
-08/07/2022 15:23:39: Setting selected recipe 2
-08/07/2022 15:23:39: UI Group status changed root = True
-08/07/2022 15:23:39: UI Group status changed Player = True
-08/07/2022 15:23:46: Drop item $item_wood
-08/07/2022 15:23:46: drop all 2  2
-08/07/2022 15:23:46: Setting selected recipe 1
-08/07/2022 15:24:00: Setting selected recipe 1
-08/07/2022 15:24:00: UI Group status changed root = True
-08/07/2022 15:24:00: UI Group status changed Player = True
-08/07/2022 15:24:01: Drop item $item_stone
-08/07/2022 15:24:01: drop all 1  1
-08/07/2022 15:24:01: Setting selected recipe 1
-08/07/2022 15:24:04: Setting selected recipe 1
-08/07/2022 15:24:04: UI Group status changed root = True
-08/07/2022 15:24:04: UI Group status changed Player = True
-08/07/2022 15:24:25: Spawned Greyling x 1
-08/07/2022 15:24:28: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:24:28: Setting selected recipe 1
-08/07/2022 15:24:28: UI Group status changed root = True
-08/07/2022 15:24:28: UI Group status changed Player = True
-08/07/2022 15:24:30: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:24:30: Setting selected recipe 1
-08/07/2022 15:24:30: UI Group status changed root = True
-08/07/2022 15:24:30: UI Group status changed Player = True
-08/07/2022 15:24:30: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:24:30: Setting selected recipe 1
-08/07/2022 15:24:30: UI Group status changed root = True
-08/07/2022 15:24:30: UI Group status changed Player = True
-08/07/2022 15:24:33: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:24:33: Setting selected recipe 1
-08/07/2022 15:24:33: UI Group status changed root = True
-08/07/2022 15:24:33: UI Group status changed Player = True
-08/07/2022 15:24:35: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:24:35: Setting selected recipe 1
-08/07/2022 15:24:35: UI Group status changed root = True
-08/07/2022 15:24:35: UI Group status changed Player = True
-08/07/2022 15:24:57: Spawned Deer x 2
-08/07/2022 15:25:22: Setting selected recipe 1
-08/07/2022 15:25:23: UI Group status changed root = True
-08/07/2022 15:25:23: UI Group status changed Player = True
-08/07/2022 15:25:26: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:25:26: Setting selected recipe 1
-08/07/2022 15:25:26: UI Group status changed root = True
-08/07/2022 15:25:26: UI Group status changed Player = True
-08/07/2022 15:25:27: Stopped music meadows at 4233263
-08/07/2022 15:25:27: Resumed music home at 5374144
-08/07/2022 15:25:42: Setting selected recipe 1
-08/07/2022 15:25:42: UI Group status changed root = True
-08/07/2022 15:25:42: UI Group status changed Player = True
-08/07/2022 15:25:43: Stopped music home at 6067980
-08/07/2022 15:25:43: Resumed music home at 6067980
-08/07/2022 15:25:46: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:25:46: Setting selected recipe 1
-08/07/2022 15:25:46: UI Group status changed root = True
-08/07/2022 15:25:46: UI Group status changed Player = True
+08/09/2022 19:11:31: Poison damage: 34.50221 ttl:6.873858 hits:6 dmg perhit:5.750368
+08/09/2022 19:11:35: Setting selected recipe 2
+08/09/2022 19:11:35: UI Group status changed root = True
+08/09/2022 19:11:35: UI Group status changed Player = True
+08/09/2022 19:11:48: Spawned Deer x 1
+08/09/2022 19:11:48: Spawned Neck x 1
+08/09/2022 19:11:52: Disabling PlayerBase  character_trigger
+08/09/2022 19:11:54: Placed piece_workbench
+08/09/2022 19:11:54: Disabling PlayerBase  character_trigger
+08/09/2022 19:12:01: Setting selected recipe 1
+08/09/2022 19:12:01: UI Group status changed root = True
+08/09/2022 19:12:01: UI Group status changed Player = True
+08/09/2022 19:12:03: Drop item $item_dandelion
+08/09/2022 19:12:03: drop all 2  2
+08/09/2022 19:12:03: Setting selected recipe 1
+08/09/2022 19:12:05: Drop item $item_ancientseed
+08/09/2022 19:12:05: drop all 2  2
+08/09/2022 19:12:05: Setting selected recipe 1
+08/09/2022 19:12:35: Placed wood_pole
+08/09/2022 19:12:37: Placed wood_pole
+08/09/2022 19:12:41: Placed wood_pole
+08/09/2022 19:12:45: Placed wood_pole
+08/09/2022 19:12:50: Disabling PlayerBase  character_trigger
+08/09/2022 19:13:20: Placed piece_workbench
+08/09/2022 19:13:20: Disabling PlayerBase  character_trigger
+08/09/2022 19:13:59: Placed wood_pole
+08/09/2022 19:14:05: Placed wood_wall_log_4x0.5
+08/09/2022 19:14:10: Placed wood_pole
+08/09/2022 19:14:17: Placed wood_wall_log
+08/09/2022 19:14:20: Placed wood_wall_log
+08/09/2022 19:14:29: Disabling PlayerBase  character_trigger
+08/09/2022 19:14:30: Placed piece_workbench
+08/09/2022 19:14:30: Disabling PlayerBase  character_trigger
+08/09/2022 19:14:37: Placed wood_wall_log_4x0.5
+08/09/2022 19:14:41: Placed wood_pole
+08/09/2022 19:14:44: Placed wood_pole
+08/09/2022 19:14:54: Placed wood_floor
+08/09/2022 19:14:56: Placed wood_floor
+08/09/2022 19:15:00: Spawned Greyling x 1
+08/09/2022 19:15:04: Disabling PlayerBase  character_trigger
+08/09/2022 19:15:15: Placed piece_workbench
+08/09/2022 19:15:15: Disabling PlayerBase  character_trigger
+08/09/2022 19:15:39: Setting selected recipe 2
+08/09/2022 19:15:39: UI Group status changed root = True
+08/09/2022 19:15:39: UI Group status changed Player = True
+08/09/2022 19:15:42: Setting selected recipe 2
+08/09/2022 19:15:58: Placed wood_pole_log
+08/09/2022 19:16:01: Placed wood_pole_log
+08/09/2022 19:16:05: Placed wood_pole_log
+08/09/2022 19:16:06: Placed wood_pole_log
+08/09/2022 19:16:17: Spawned Greyling x 1
+08/09/2022 19:16:54: Placed wood_wall_log
+08/09/2022 19:17:00: Setting selected recipe 2
+08/09/2022 19:17:00: UI Group status changed root = True
+08/09/2022 19:17:00: UI Group status changed Player = True
+08/09/2022 19:17:37: Placed wood_beam
+08/09/2022 19:17:42: Placed wood_roof_top_45
+08/09/2022 19:17:52: Placed wood_roof_top_45
+08/09/2022 19:18:13: Placed wood_roof_top
+08/09/2022 19:18:30: Placed wood_roof_top
+08/09/2022 19:18:40: Placed wood_roof_45
+08/09/2022 19:18:42: Placed wood_roof_45
+08/09/2022 19:18:50: Placed wood_roof_45
+08/09/2022 19:18:57: Setting selected recipe 2
+08/09/2022 19:18:57: UI Group status changed root = True
+08/09/2022 19:18:57: UI Group status changed Player = True
+08/09/2022 19:19:02: Spawned Greyling x 1
+08/09/2022 19:19:02: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 19:19:02: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 19:19:03: Setting selected recipe 2
+08/09/2022 19:19:03: UI Group status changed root = True
+08/09/2022 19:19:03: UI Group status changed Player = True
+08/09/2022 19:19:42: Stopped music meadows at 5566393
+08/09/2022 19:19:52: Spawned Greydwarf_Elite x 1
+08/09/2022 19:19:56: Done fading color
+08/09/2022 19:19:56: Done fading color
+08/09/2022 19:19:56: Done fading color
+08/09/2022 19:20:00: Spawned Skeleton x 1
+08/09/2022 19:20:03: Poison damage: 16.61421 ttl:5.076053 hits:5 dmg perhit:3.322842
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 1339 unused Assets to reduce memory usage. Loaded Objects now: 1953624.
-Total: 606.444000 ms (FindLiveObjects: 121.575200 ms CreateObjectMapping: 27.366400 ms MarkObjects: 453.227400 ms  DeleteObjects: 4.274600 ms)
+Unloading 9760 unused Assets to reduce memory usage. Loaded Objects now: 1921385.
+Total: 578.505100 ms (FindLiveObjects: 107.091900 ms CreateObjectMapping: 26.905700 ms MarkObjects: 415.727100 ms  DeleteObjects: 28.780100 ms)
 
-08/07/2022 15:25:53: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:25:53: Setting selected recipe 1
-08/07/2022 15:25:53: UI Group status changed root = True
-08/07/2022 15:25:53: UI Group status changed Player = True
-08/07/2022 15:26:03: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:03: Setting selected recipe 1
-08/07/2022 15:26:03: UI Group status changed root = True
-08/07/2022 15:26:03: UI Group status changed Player = True
-08/07/2022 15:26:05: Stopped music home at 7041823
-08/07/2022 15:26:05: Resumed music meadows at 4233263
-08/07/2022 15:26:11: Setting selected recipe 1
-08/07/2022 15:26:11: UI Group status changed root = True
-08/07/2022 15:26:11: UI Group status changed Player = True
-08/07/2022 15:26:12: Stopped music meadows at 4533311
-08/07/2022 15:26:12: Resumed music home at 7041823
-08/07/2022 15:26:19: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:19: Setting selected recipe 1
-08/07/2022 15:26:19: UI Group status changed root = True
-08/07/2022 15:26:19: UI Group status changed Player = True
-08/07/2022 15:26:20: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:20: Setting selected recipe 1
-08/07/2022 15:26:20: UI Group status changed root = True
-08/07/2022 15:26:20: UI Group status changed Player = True
-08/07/2022 15:26:20: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:20: Setting selected recipe 1
-08/07/2022 15:26:20: UI Group status changed root = True
-08/07/2022 15:26:20: UI Group status changed Player = True
-08/07/2022 15:26:21: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:21: Setting selected recipe 1
-08/07/2022 15:26:21: UI Group status changed root = True
-08/07/2022 15:26:21: UI Group status changed Player = True
-08/07/2022 15:26:21: Stopped music home at 7462903
-08/07/2022 15:26:21: Resumed music meadows at 4533311
-08/07/2022 15:26:22: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:22: Setting selected recipe 1
-08/07/2022 15:26:22: UI Group status changed root = True
-08/07/2022 15:26:22: UI Group status changed Player = True
-08/07/2022 15:26:22: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:22: Setting selected recipe 1
-08/07/2022 15:26:22: UI Group status changed root = True
-08/07/2022 15:26:22: UI Group status changed Player = True
-08/07/2022 15:26:23: Setting selected recipe 1
-08/07/2022 15:26:23: UI Group status changed root = True
-08/07/2022 15:26:23: UI Group status changed Player = True
-08/07/2022 15:26:31: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:31: Setting selected recipe 1
-08/07/2022 15:26:31: UI Group status changed root = True
-08/07/2022 15:26:31: UI Group status changed Player = True
-08/07/2022 15:26:35: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:35: Setting selected recipe 1
-08/07/2022 15:26:35: UI Group status changed root = True
-08/07/2022 15:26:35: UI Group status changed Player = True
-08/07/2022 15:26:36: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:36: Setting selected recipe 1
-08/07/2022 15:26:36: UI Group status changed root = True
-08/07/2022 15:26:36: UI Group status changed Player = True
-08/07/2022 15:26:37: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:37: Setting selected recipe 1
-08/07/2022 15:26:37: UI Group status changed root = True
-08/07/2022 15:26:37: UI Group status changed Player = True
-08/07/2022 15:26:38: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:38: Setting selected recipe 1
-08/07/2022 15:26:38: UI Group status changed root = True
-08/07/2022 15:26:38: UI Group status changed Player = True
-08/07/2022 15:26:39: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:39: Setting selected recipe 1
-08/07/2022 15:26:39: UI Group status changed root = True
-08/07/2022 15:26:39: UI Group status changed Player = True
-08/07/2022 15:26:40: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:26:40: Setting selected recipe 1
-08/07/2022 15:26:40: UI Group status changed root = True
-08/07/2022 15:26:40: UI Group status changed Player = True
-08/07/2022 15:26:45: Setting selected recipe 1
-08/07/2022 15:26:45: UI Group status changed root = True
-08/07/2022 15:26:45: UI Group status changed Player = True
-08/07/2022 15:27:07: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:27:07: Setting selected recipe 1
-08/07/2022 15:27:07: UI Group status changed root = True
-08/07/2022 15:27:07: UI Group status changed Player = True
-08/07/2022 15:27:08: Stopped music meadows at 6594216
-08/07/2022 15:27:08: Resumed music home at 7462903
-08/07/2022 15:27:08: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:27:08: Setting selected recipe 1
-08/07/2022 15:27:08: UI Group status changed root = True
-08/07/2022 15:27:08: UI Group status changed Player = True
-08/07/2022 15:27:12: Setting selected recipe 0
-08/07/2022 15:27:12: UI Group status changed root = True
-08/07/2022 15:27:12: UI Group status changed Player = True
-08/07/2022 15:27:15: Setting selected recipe 5
-08/07/2022 15:27:15: Setting selected recipe 6
-08/07/2022 15:27:17: Setting selected recipe 7
-08/07/2022 15:27:17: Setting selected recipe 8
-08/07/2022 15:27:19: Setting selected recipe 9
-08/07/2022 15:27:20: Setting selected recipe 10
-08/07/2022 15:27:22: Setting selected recipe 6
-08/07/2022 15:27:28: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:27:28: Setting selected recipe 0
-08/07/2022 15:27:28: UI Group status changed root = True
-08/07/2022 15:27:28: UI Group status changed Player = True
-08/07/2022 15:27:32: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:27:32: Setting selected recipe 0
-08/07/2022 15:27:32: UI Group status changed root = True
-08/07/2022 15:27:32: UI Group status changed Player = True
-08/07/2022 15:27:33: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:27:33: Setting selected recipe 0
-08/07/2022 15:27:33: UI Group status changed root = True
-08/07/2022 15:27:33: UI Group status changed Player = True
-08/07/2022 15:27:35: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:27:35: Setting selected recipe 0
-08/07/2022 15:27:35: UI Group status changed root = True
-08/07/2022 15:27:35: UI Group status changed Player = True
-08/07/2022 15:27:44: Setting selected recipe 0
-08/07/2022 15:27:44: UI Group status changed root = True
-08/07/2022 15:27:44: UI Group status changed Player = True
-08/07/2022 15:27:45: Setting selected recipe 6
-08/07/2022 15:27:47: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:27:47: Setting selected recipe 0
-08/07/2022 15:27:47: UI Group status changed root = True
-08/07/2022 15:27:47: UI Group status changed Player = True
-08/07/2022 15:27:49: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:27:49: Setting selected recipe 0
-08/07/2022 15:27:49: UI Group status changed root = True
-08/07/2022 15:27:49: UI Group status changed Player = True
-08/07/2022 15:27:50: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:27:50: Setting selected recipe 0
-08/07/2022 15:27:50: UI Group status changed root = True
-08/07/2022 15:27:50: UI Group status changed Player = True
-08/07/2022 15:27:52: Setting selected recipe 0
-08/07/2022 15:27:52: UI Group status changed root = True
-08/07/2022 15:27:52: UI Group status changed Player = True
-08/07/2022 15:27:57: Queue unlock msg:$msg_newmaterial:$item_meadbasehealth_medium
-08/07/2022 15:27:57: Setting selected recipe 0
-08/07/2022 15:27:59: Setting selected recipe 0
-08/07/2022 15:28:09: Stopped music home at 2013518
-08/07/2022 15:28:09: Resumed music meadows at 6594216
-08/07/2022 15:28:19: Stopped music meadows at 7046136
-08/07/2022 15:28:19: Resumed music home at 2013518
-08/07/2022 15:28:22: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:28:22: Setting selected recipe 0
-08/07/2022 15:28:22: UI Group status changed root = True
-08/07/2022 15:28:22: UI Group status changed Player = True
-08/07/2022 15:28:23: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:28:23: Setting selected recipe 0
-08/07/2022 15:28:23: UI Group status changed root = True
-08/07/2022 15:28:23: UI Group status changed Player = True
-08/07/2022 15:28:27: Setting selected recipe 0
-08/07/2022 15:28:28: Setting selected recipe 0
-08/07/2022 15:28:29: Setting selected recipe 0
-08/07/2022 15:28:31: Item is not in this container
-08/07/2022 15:28:31: Setting selected recipe 0
-08/07/2022 15:28:31: Item is not in this container
-08/07/2022 15:28:31: Setting selected recipe 0
-08/07/2022 15:28:32: Setting selected recipe 0
-08/07/2022 15:28:38: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:28:38: Setting selected recipe 0
-08/07/2022 15:28:38: UI Group status changed root = True
-08/07/2022 15:28:38: UI Group status changed Player = True
-08/07/2022 15:28:39: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:28:39: Setting selected recipe 0
-08/07/2022 15:28:39: UI Group status changed root = True
-08/07/2022 15:28:39: UI Group status changed Player = True
-08/07/2022 15:28:39: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:28:39: Setting selected recipe 0
-08/07/2022 15:28:40: UI Group status changed root = True
-08/07/2022 15:28:40: UI Group status changed Player = True
-08/07/2022 15:28:41: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:28:41: Setting selected recipe 0
-08/07/2022 15:28:41: UI Group status changed root = True
-08/07/2022 15:28:41: UI Group status changed Player = True
-08/07/2022 15:28:53: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:28:53: Setting selected recipe 0
-08/07/2022 15:28:53: UI Group status changed root = True
-08/07/2022 15:28:53: UI Group status changed Player = True
-08/07/2022 15:28:54: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:28:54: Setting selected recipe 0
-08/07/2022 15:28:54: UI Group status changed root = True
-08/07/2022 15:28:54: UI Group status changed Player = True
-08/07/2022 15:28:57: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:28:57: Setting selected recipe 0
-08/07/2022 15:28:58: UI Group status changed root = True
-08/07/2022 15:28:58: UI Group status changed Player = True
-08/07/2022 15:29:11: Item is not in this container
-08/07/2022 15:29:11: Setting selected recipe 0
-08/07/2022 15:29:12: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:29:12: Setting selected recipe 0
-08/07/2022 15:29:12: UI Group status changed root = True
-08/07/2022 15:29:12: UI Group status changed Player = True
-08/07/2022 15:29:13: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:29:13: Setting selected recipe 0
-08/07/2022 15:29:13: UI Group status changed root = True
-08/07/2022 15:29:13: UI Group status changed Player = True
-08/07/2022 15:29:15: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:29:15: Setting selected recipe 0
-08/07/2022 15:29:15: UI Group status changed root = True
-08/07/2022 15:29:15: UI Group status changed Player = True
-08/07/2022 15:29:19: Setting selected recipe 0
-08/07/2022 15:29:19: UI Group status changed root = True
-08/07/2022 15:29:19: UI Group status changed Player = True
-08/07/2022 15:29:23: Setting selected recipe 0
-08/07/2022 15:29:23: UI Group status changed root = True
-08/07/2022 15:29:23: UI Group status changed Player = True
-08/07/2022 15:31:20: Stopped music home at 1848237
-08/07/2022 15:31:20: Resumed music meadows at 7046136
-08/07/2022 15:31:27: Poison damage: 29.63855 ttl:6.44413 hits:6 dmg perhit:4.939759
-08/07/2022 15:31:29: Poison damage: 37.03165 ttl:7.085364 hits:7 dmg perhit:5.290236
-08/07/2022 15:31:53: Setting selected recipe 0
-08/07/2022 15:31:53: UI Group status changed root = True
-08/07/2022 15:31:53: UI Group status changed Player = True
-08/07/2022 15:32:05: Setting selected recipe 0
-08/07/2022 15:32:05: UI Group status changed root = True
-08/07/2022 15:32:05: UI Group status changed Player = True
-08/07/2022 15:32:16: Setting selected recipe 0
-08/07/2022 15:32:16: UI Group status changed root = True
-08/07/2022 15:32:16: UI Group status changed Player = True
-08/07/2022 15:32:35: Setting selected recipe 0
-08/07/2022 15:32:35: UI Group status changed root = True
-08/07/2022 15:32:35: UI Group status changed Player = True
-08/07/2022 15:33:04: Setting selected recipe 0
-08/07/2022 15:33:04: UI Group status changed root = True
-08/07/2022 15:33:04: UI Group status changed Player = True
-08/07/2022 15:33:08: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:33:08: Setting selected recipe 0
-08/07/2022 15:33:08: UI Group status changed root = True
-08/07/2022 15:33:08: UI Group status changed Player = True
-08/07/2022 15:33:10: Stopped music meadows at 2164532
-08/07/2022 15:33:10: Resumed music home at 1848237
-08/07/2022 15:33:21: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:33:21: Setting selected recipe 0
-08/07/2022 15:33:21: UI Group status changed root = True
-08/07/2022 15:33:21: UI Group status changed Player = True
-08/07/2022 15:33:23: Stopped music home at 2417713
-08/07/2022 15:33:23: Resumed music meadows at 2164532
-08/07/2022 15:33:24: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:33:24: Setting selected recipe 0
-08/07/2022 15:33:24: UI Group status changed root = True
-08/07/2022 15:33:24: UI Group status changed Player = True
-08/07/2022 15:33:25: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:33:25: Setting selected recipe 0
-08/07/2022 15:33:25: UI Group status changed root = True
-08/07/2022 15:33:25: UI Group status changed Player = True
-08/07/2022 15:33:25: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:33:25: Setting selected recipe 0
-08/07/2022 15:33:25: UI Group status changed root = True
-08/07/2022 15:33:25: UI Group status changed Player = True
-08/07/2022 15:33:43: Disabling PlayerBase  character_trigger
-08/07/2022 15:33:46: Placed piece_stonecutter
-08/07/2022 15:33:46: Disabling PlayerBase  character_trigger
-08/07/2022 15:33:46: Disabling PlayerBase  character_trigger
-08/07/2022 15:33:46: Disabling PlayerBase  character_trigger
-08/07/2022 15:33:50: Placed stone_floor_2x2
-08/07/2022 15:33:51: Placed stone_floor_2x2
-08/07/2022 15:33:52: Placed stone_floor_2x2
-08/07/2022 15:33:54: Placed stone_floor_2x2
-08/07/2022 15:33:55: Placed stone_floor_2x2
-08/07/2022 15:33:56: Placed stone_floor_2x2
-08/07/2022 15:33:57: Placed stone_floor_2x2
-08/07/2022 15:33:58: Placed stone_floor_2x2
-08/07/2022 15:34:02: Disabling PlayerBase  character_trigger
-08/07/2022 15:34:15: Player -181467591 wants to open piece_chest(Clone)   im: -181467591
-08/07/2022 15:34:15: Setting selected recipe 0
-08/07/2022 15:34:15: UI Group status changed root = True
-08/07/2022 15:34:15: UI Group status changed Player = True
-08/07/2022 15:34:17: Stopped music meadows at 4566781
-08/07/2022 15:34:17: Resumed music home at 2417713
-08/07/2022 15:34:21: Stopped music home at 2579380
-08/07/2022 15:34:21: Resumed music meadows at 4566781
-08/07/2022 15:34:23: Setting selected recipe 0
-08/07/2022 15:34:23: UI Group status changed root = True
-08/07/2022 15:34:23: UI Group status changed Player = True
-08/07/2022 15:34:24: Disabling PlayerBase  character_trigger
-08/07/2022 15:34:27: Disabling PlayerBase  character_trigger
-08/07/2022 15:34:28: Placed piece_workbench
-08/07/2022 15:34:28: Disabling PlayerBase  character_trigger
-08/07/2022 15:34:29: Setting selected recipe 0
-08/07/2022 15:34:29: UI Group status changed root = True
-08/07/2022 15:34:29: UI Group status changed Player = True
-08/07/2022 15:34:36: Placed stone_floor_2x2
-08/07/2022 15:34:37: Placed stone_floor_2x2
-08/07/2022 15:34:37: Setting selected recipe 0
-08/07/2022 15:34:37: UI Group status changed root = True
-08/07/2022 15:34:37: UI Group status changed Player = True
-08/07/2022 15:34:40: Added to stack40 0
-08/07/2022 15:34:40: Setting selected recipe 0
-08/07/2022 15:34:48: Spawned Deer x 1
-08/07/2022 15:35:36: Stopped music meadows at 7895778
-08/07/2022 15:35:36: Resumed music meadows at 7895778
-08/07/2022 15:35:48: Uncompressed size 8392769
-08/07/2022 15:35:48: Compressed size 15425
+08/09/2022 19:20:25: Placed wood_roof_45
+08/09/2022 19:20:34: Placed wood_roof_45
+08/09/2022 19:20:40: Placed wood_roof_45
+08/09/2022 19:20:50: Placed wood_roof_45
+08/09/2022 19:20:54: Placed wood_roof_45
+08/09/2022 19:21:17: Spawned Greydwarf x 1
+08/09/2022 19:21:17: Spawned Greyling x 1
+08/09/2022 19:21:31: Placed wood_roof
+08/09/2022 19:21:35: Placed wood_roof
+08/09/2022 19:21:40: Placed wood_roof_top_45
+08/09/2022 19:21:57: Placed wood_stair
+08/09/2022 19:22:02: Placed wood_log_26
+08/09/2022 19:22:03: Placed wood_log_26
+08/09/2022 19:22:25: Disabling PlayerBase  character_trigger
+08/09/2022 19:22:32: Disabling PlayerBase  character_trigger
+08/09/2022 19:22:35: Placed piece_groundtorch_wood
+08/09/2022 19:22:35: Disabling PlayerBase  character_trigger
+08/09/2022 19:22:35: Disabling PlayerBase  character_trigger
+08/09/2022 19:22:43: Placed piece_groundtorch_wood
+08/09/2022 19:22:43: Disabling PlayerBase  character_trigger
+08/09/2022 19:22:43: Disabling PlayerBase  character_trigger
+08/09/2022 19:23:02: Disabling PlayerBase  character_trigger
+08/09/2022 19:23:04: Disabling PlayerBase  character_trigger
+08/09/2022 19:23:15: Disabling PlayerBase  character_trigger
+08/09/2022 19:23:20: Placed wood_roof
+08/09/2022 19:23:21: Spawned Greydwarf_Elite x 1
+08/09/2022 19:23:21: Spawned Greydwarf_Shaman x 1
+08/09/2022 19:23:24: Placed wood_roof
+08/09/2022 19:23:25: Disabling PlayerBase  character_trigger
+08/09/2022 19:23:30: Placed piece_groundtorch_wood
+08/09/2022 19:23:30: Disabling PlayerBase  character_trigger
+08/09/2022 19:23:30: Disabling PlayerBase  character_trigger
+08/09/2022 19:24:00: Disabling PlayerBase  character_trigger
+08/09/2022 19:24:03: Placed piece_groundtorch_wood
+08/09/2022 19:24:03: Disabling PlayerBase  character_trigger
+08/09/2022 19:24:03: Disabling PlayerBase  character_trigger
+08/09/2022 19:24:21: Spawned Greydwarf x 1
+08/09/2022 19:24:30: Setting selected recipe 2
+08/09/2022 19:24:30: UI Group status changed root = True
+08/09/2022 19:24:30: UI Group status changed Player = True
+08/09/2022 19:24:41: Spawned Greydwarf x 1
+08/09/2022 19:24:51: Disabling PlayerBase  character_trigger
+08/09/2022 19:24:54: Disabling PlayerBase  character_trigger
+08/09/2022 19:24:55: Disabling PlayerBase  character_trigger
+08/09/2022 19:25:01: Spawned Skeleton x 2
+08/09/2022 19:25:03: Disabling PlayerBase  character_trigger
+08/09/2022 19:25:03: Disabling PlayerBase  character_trigger
+08/09/2022 19:25:06: Disabling PlayerBase  character_trigger
+08/09/2022 19:25:06: Disabling PlayerBase  character_trigger
+08/09/2022 19:25:24: Disabling PlayerBase  character_trigger
+08/09/2022 19:25:30: Placed wood_beam
+08/09/2022 19:25:31: Placed wood_beam
+08/09/2022 19:25:37: Placed wood_beam
+08/09/2022 19:25:39: Placed wood_beam
+08/09/2022 19:26:03: Placed wood_stair
+08/09/2022 19:26:08: Placed wood_stair
+08/09/2022 19:26:12: Placed wood_stair
+08/09/2022 19:26:13: Placed wood_stair
+08/09/2022 19:26:19: Placed wood_stair
+08/09/2022 19:26:20: Placed wood_stair
+08/09/2022 19:26:25: Spawned Greydwarf_Shaman x 1
+08/09/2022 19:26:34: Placed wood_beam
+08/09/2022 19:26:35: Placed wood_beam
+08/09/2022 19:26:38: Placed wood_beam
+08/09/2022 19:26:40: Placed wood_beam
+08/09/2022 19:26:52: Placed wood_wall_roof_top_45
+08/09/2022 19:27:14: Spawned Skeleton x 1
+08/09/2022 19:27:14: Spawned Greydwarf x 1
+08/09/2022 19:27:15: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 19:27:15: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 19:27:25: Setting selected recipe 1
+08/09/2022 19:27:25: UI Group status changed root = True
+08/09/2022 19:27:25: UI Group status changed Player = True
+08/09/2022 19:27:29: Drop item $item_bonefragments
+08/09/2022 19:27:29: drop all 1  1
+08/09/2022 19:27:29: Setting selected recipe 1
+08/09/2022 19:27:35: Setting selected recipe 1
+08/09/2022 19:27:35: UI Group status changed root = True
+08/09/2022 19:27:35: UI Group status changed Player = True
+08/09/2022 19:27:37: Setting selected recipe 1
+08/09/2022 19:27:37: UI Group status changed root = True
+08/09/2022 19:27:37: UI Group status changed Player = True
+08/09/2022 19:27:45: Drop item $item_pukeberries
+08/09/2022 19:27:45: drop all 1  1
+08/09/2022 19:27:45: Setting selected recipe 1
+08/09/2022 19:28:03: Setting selected recipe 1
+08/09/2022 19:28:03: UI Group status changed root = True
+08/09/2022 19:28:03: UI Group status changed Player = True
+08/09/2022 19:28:07: Drop item $item_beechseeds
+08/09/2022 19:28:07: drop all 2  2
+08/09/2022 19:28:07: Setting selected recipe 1
+08/09/2022 19:28:11: Spawned Greydwarf x 1
+08/09/2022 19:28:23: Force generaeting hmap (-192.0, 0.0, -64.0)
+08/09/2022 19:28:23: Force generaeting hmap (-256.0, 0.0, -64.0)
+08/09/2022 19:28:28: Spawned Greydwarf_Shaman x 1
+08/09/2022 19:28:28: Spawned Greydwarf x 1
+08/09/2022 19:28:28: Spawned Greyling x 1
+08/09/2022 19:28:58: Spawned Greyling x 1
+08/09/2022 19:29:01: Done fading color
+08/09/2022 19:29:01: Done fading color
+08/09/2022 19:29:02: Done fading color
+08/09/2022 19:29:05: Force generaeting hmap (-256.0, 0.0, -64.0)
+08/09/2022 19:29:05: Force generaeting hmap (-256.0, 0.0, 0.0)
+08/09/2022 19:29:05: Force generaeting hmap (-64.0, 0.0, 0.0)
+08/09/2022 19:29:05: Force generaeting hmap (0.0, 0.0, 0.0)
+08/09/2022 19:29:27: Placed wood_wall_roof_top_45
+08/09/2022 19:29:37: Placed wood_roof_top_45
+08/09/2022 19:29:39: Placed wood_roof_top_45
+08/09/2022 19:29:42: Placed wood_roof_top_45
+08/09/2022 19:29:46: Placed wood_roof_top_45
+08/09/2022 19:30:00: Placed wood_roof
+08/09/2022 19:30:01: Placed wood_roof
+08/09/2022 19:30:04: Placed wood_roof
+08/09/2022 19:30:10: Uncompressed size 8392769
+08/09/2022 19:30:10: Compressed size 15425
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 5311 unused Assets to reduce memory usage. Loaded Objects now: 1921141.
-Total: 576.230400 ms (FindLiveObjects: 112.554000 ms CreateObjectMapping: 26.677000 ms MarkObjects: 422.687100 ms  DeleteObjects: 14.312000 ms)
+Unloading 10178 unused Assets to reduce memory usage. Loaded Objects now: 1924163.
+Total: 581.086900 ms (FindLiveObjects: 115.054500 ms CreateObjectMapping: 26.924600 ms MarkObjects: 411.163200 ms  DeleteObjects: 27.944300 ms)
 
-08/07/2022 15:36:04: Stopped music meadows at 9121207
-08/07/2022 15:36:04: Resumed music meadows at 9121207
-08/07/2022 15:36:25: Stopped music meadows at 331458
-08/07/2022 15:36:25: Resumed music meadows at 331458
-08/07/2022 15:36:33: Disabling PlayerBase  character_trigger
-08/07/2022 15:36:36: Placed piece_workbench
-08/07/2022 15:36:36: Disabling PlayerBase  character_trigger
-08/07/2022 15:36:36: Setting selected recipe 0
-08/07/2022 15:36:36: UI Group status changed root = True
-08/07/2022 15:36:36: UI Group status changed Player = True
-08/07/2022 15:36:37: Setting selected recipe 0
-08/07/2022 15:36:37: UI Group status changed root = True
-08/07/2022 15:36:37: UI Group status changed Player = True
-08/07/2022 15:36:39: Disabling PlayerBase  character_trigger
-08/07/2022 15:36:41: Disabling PlayerBase  character_trigger
-08/07/2022 15:36:42: Placed piece_stonecutter
-08/07/2022 15:36:42: Disabling PlayerBase  character_trigger
-08/07/2022 15:36:42: Disabling PlayerBase  character_trigger
-08/07/2022 15:36:42: Disabling PlayerBase  character_trigger
-08/07/2022 15:36:47: Placed stone_floor_2x2
-08/07/2022 15:36:49: Placed stone_floor_2x2
-08/07/2022 15:36:52: Placed stone_floor_2x2
-08/07/2022 15:36:58: Spawned Greyling x 1
-08/07/2022 15:37:17: Placed stone_floor_2x2
-08/07/2022 15:37:23: Placed stone_floor_2x2
-08/07/2022 15:37:29: Placed stone_floor_2x2
-08/07/2022 15:37:51: Stopped music meadows at 4133819
-08/07/2022 15:37:51: Resumed music home at 2579380
-08/07/2022 15:37:58: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:37:58: Setting selected recipe 0
-08/07/2022 15:37:58: UI Group status changed root = True
-08/07/2022 15:37:58: UI Group status changed Player = True
-08/07/2022 15:37:58: Stopped music home at 2889855
-08/07/2022 15:37:58: Resumed music home at 2889855
-08/07/2022 15:37:59: Player -181467591 wants to open piece_chest_wood(Clone)   im: -181467591
-08/07/2022 15:37:59: Setting selected recipe 0
-08/07/2022 15:37:59: UI Group status changed root = True
-08/07/2022 15:37:59: UI Group status changed Player = True
-08/07/2022 15:38:07: Stopped music home at 3251048
-08/07/2022 15:38:07: Resumed music home at 3251048
-08/07/2022 15:38:12: Stopped music home at 3489521
-08/07/2022 15:38:12: Resumed music meadows at 4133819
-08/07/2022 15:38:38: Placed stone_floor_2x2
-08/07/2022 15:38:39: Placed stone_floor_2x2
-08/07/2022 15:38:40: Placed stone_floor_2x2
-08/07/2022 15:38:41: Placed stone_floor_2x2
-08/07/2022 15:38:42: Placed stone_floor_2x2
-08/07/2022 15:38:49: Placed stone_floor_2x2
-08/07/2022 15:38:55: Placed stone_floor_2x2
-08/07/2022 15:38:59: Placed stone_floor_2x2
-08/07/2022 15:39:01: Placed stone_floor_2x2
-08/07/2022 15:39:02: Placed stone_floor_2x2
-08/07/2022 15:39:18: Placed stone_floor_2x2
-08/07/2022 15:39:19: Placed stone_floor_2x2
-08/07/2022 15:39:22: Placed stone_floor_2x2
-08/07/2022 15:39:27: Placed stone_floor_2x2
-08/07/2022 15:41:07: Placed stone_floor_2x2
-08/07/2022 15:41:10: Placed stone_floor_2x2
-08/07/2022 15:41:11: Placed stone_floor_2x2
-08/07/2022 15:41:13: Placed stone_floor_2x2
-08/07/2022 15:41:15: Placed stone_floor_2x2
-08/07/2022 15:41:15: Placed stone_floor_2x2
-08/07/2022 15:43:58: Spawned Neck x 1
-08/07/2022 15:44:11: Stopped music meadows at 530850
-08/07/2022 15:44:11: Resumed music home at 3489521
-08/07/2022 15:44:17: Setting selected recipe 0
-08/07/2022 15:44:17: UI Group status changed root = True
-08/07/2022 15:44:17: UI Group status changed Player = True
-08/07/2022 15:44:18: Stopped music home at 3797193
-08/07/2022 15:44:18: Spawned Greydwarf_Shaman x 1
-08/07/2022 15:44:39: UI Group status changed MenuRoot = True
-08/07/2022 15:44:40: UI Group status changed MenuRoot = False
-08/07/2022 15:44:41: Game - OnApplicationQuit
-08/07/2022 15:44:41: Shuting down
-08/07/2022 15:44:41: Uncompressed size 8392769
-08/07/2022 15:44:41: Compressed size 15425
-08/07/2022 15:44:41: ZNet Shutdown
-08/07/2022 15:44:41: Sending disconnect msg
-08/07/2022 15:44:41: Sent to 90162103108965384
-08/07/2022 15:44:41: Released session ticket
-08/07/2022 15:44:41: Disposing socket
-08/07/2022 15:44:41: Closing socket 90162103108965384
-08/07/2022 15:44:41:   send queue size:0
-08/07/2022 15:44:41: Last socket, unregistering callback
-08/07/2022 15:44:41: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-08/07/2022 15:44:41: Disposing socket
-08/07/2022 15:44:41: Last socket, unregistering callback
-08/07/2022 15:44:41: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+08/09/2022 19:30:15: Placed woodwall
+08/09/2022 19:30:39: Disabling PlayerBase  character_trigger
+08/09/2022 19:30:40: Placed piece_workbench
+08/09/2022 19:30:40: Disabling PlayerBase  character_trigger
+08/09/2022 19:31:12: Placed wood_beam
+08/09/2022 19:31:13: Placed wood_beam
+08/09/2022 19:31:16: Placed wood_beam
+08/09/2022 19:31:17: Placed wood_beam
+08/09/2022 19:31:36: Placed wood_beam
+08/09/2022 19:31:37: Placed wood_beam
+08/09/2022 19:31:38: Placed wood_beam
+08/09/2022 19:31:39: Placed wood_beam
+08/09/2022 19:31:40: Placed wood_beam
+08/09/2022 19:31:42: Placed wood_floor
+08/09/2022 19:31:43: Placed wood_floor
+08/09/2022 19:31:48: Placed woodwall
+08/09/2022 19:31:50: Placed woodwall
+08/09/2022 19:31:53: Disabling PlayerBase  character_trigger
+08/09/2022 19:31:59: Placed piece_workbench
+08/09/2022 19:31:59: Disabling PlayerBase  character_trigger
+08/09/2022 19:32:03: Placed woodwall
+08/09/2022 19:32:04: Placed woodwall
+08/09/2022 19:32:18: Placed wood_stair
+08/09/2022 19:32:21: Placed wood_stair
+08/09/2022 19:32:23: Placed wood_stair
+08/09/2022 19:32:27: Placed wood_stair
+08/09/2022 19:32:27: Placed wood_stair
+08/09/2022 19:32:32: Placed wood_stair
+08/09/2022 19:32:36: Placed wood_door
+08/09/2022 19:32:41: Placed wood_door
+08/09/2022 19:32:50: Placed wood_roof
+08/09/2022 19:32:53: Placed wood_roof
+08/09/2022 19:32:54: Placed wood_roof
+08/09/2022 19:32:56: Placed wood_roof
+08/09/2022 19:33:04: Placed wood_roof
+08/09/2022 19:33:26: Placed wood_log_26
+08/09/2022 19:33:31: Placed wood_log_26
+08/09/2022 19:33:33: Placed wood_log_26
+08/09/2022 19:33:35: Placed wood_log_26
+08/09/2022 19:33:41: Placed wood_log_26
+08/09/2022 19:33:45: Placed wood_log_26
+08/09/2022 19:33:48: Placed wood_log_26
+08/09/2022 19:33:55: Placed wood_log_26
+08/09/2022 19:34:00: Placed wood_log_26
+08/09/2022 19:34:13: Placed wood_log_26
+08/09/2022 19:34:55: Placed wood_beam_26
+08/09/2022 19:35:04: Placed wood_beam_26
+08/09/2022 19:35:10: Placed wood_beam_26
+08/09/2022 19:35:12: Placed wood_beam_26
+08/09/2022 19:35:48: Setting selected recipe 22
+08/09/2022 19:35:48: UI Group status changed root = True
+08/09/2022 19:35:48: UI Group status changed Player = True
+08/09/2022 19:36:15: Placed wood_pole
+08/09/2022 19:36:19: Placed wood_pole
+08/09/2022 19:36:22: Placed wood_pole
+08/09/2022 19:37:16: Disabling PlayerBase  character_trigger
+08/09/2022 19:37:34: Spawned Neck x 2
+08/09/2022 19:37:34: Spawned Greyling x 1
+08/09/2022 19:37:38: Setting selected recipe 2
+08/09/2022 19:37:38: UI Group status changed root = True
+08/09/2022 19:37:38: UI Group status changed Player = True
+08/09/2022 19:37:41: Player -936330232 wants to open piece_chest(Clone)   im: -936330232
+08/09/2022 19:37:41: Setting selected recipe 2
+08/09/2022 19:37:41: UI Group status changed root = True
+08/09/2022 19:37:41: UI Group status changed Player = True
+08/09/2022 19:37:43: Player -936330232 wants to open piece_chest(Clone)   im: -936330232
+08/09/2022 19:37:43: Setting selected recipe 2
+08/09/2022 19:37:43: UI Group status changed root = True
+08/09/2022 19:37:43: UI Group status changed Player = True
+08/09/2022 19:37:46: Stopped music meadows at 3060688
+08/09/2022 19:37:47: Disabling PlayerBase  character_trigger
+08/09/2022 19:37:49: Disabling PlayerBase  character_trigger
+08/09/2022 19:37:51: Placed piece_stonecutter
+08/09/2022 19:37:51: Disabling PlayerBase  character_trigger
+08/09/2022 19:37:51: Disabling PlayerBase  character_trigger
+08/09/2022 19:37:51: Disabling PlayerBase  character_trigger
+08/09/2022 19:37:54: Setting selected recipe 1
+08/09/2022 19:37:54: UI Group status changed root = True
+08/09/2022 19:37:54: UI Group status changed Player = True
+08/09/2022 19:37:58: Disabling PlayerBase  character_trigger
+08/09/2022 19:37:58: Disabling PlayerBase  character_trigger
+08/09/2022 19:37:58: Disabling PlayerBase  character_trigger
+08/09/2022 19:37:58: Disabling PlayerBase  character_trigger
+08/09/2022 19:37:58: Item is not in this container
+08/09/2022 19:37:58: Setting selected recipe 1
+08/09/2022 19:38:00: Player -936330232 wants to open piece_chest(Clone)   im: -936330232
+08/09/2022 19:38:00: Setting selected recipe 1
+08/09/2022 19:38:00: UI Group status changed root = True
+08/09/2022 19:38:00: UI Group status changed Player = True
+08/09/2022 19:38:04: Added to stack32 0
+08/09/2022 19:38:04: Setting selected recipe 1
+08/09/2022 19:38:38: Setting selected recipe 0
+08/09/2022 19:38:43: Added to stack5 0
+08/09/2022 19:38:43: Setting selected recipe 0
+08/09/2022 19:38:45: Setting selected recipe 0
+08/09/2022 19:38:46: Item is not in this container
+08/09/2022 19:38:46: Setting selected recipe 0
+08/09/2022 19:38:48: Added to stack11 0
+08/09/2022 19:38:48: Setting selected recipe 0
+08/09/2022 19:38:49: Setting selected recipe 0
+08/09/2022 19:38:52: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 19:38:52: Setting selected recipe 0
+08/09/2022 19:38:52: UI Group status changed root = True
+08/09/2022 19:38:52: UI Group status changed Player = True
+08/09/2022 19:38:53: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 19:38:53: Setting selected recipe 0
+08/09/2022 19:38:53: UI Group status changed root = True
+08/09/2022 19:38:53: UI Group status changed Player = True
+08/09/2022 19:38:54: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 19:38:54: Setting selected recipe 0
+08/09/2022 19:38:54: UI Group status changed root = True
+08/09/2022 19:38:54: UI Group status changed Player = True
+08/09/2022 19:39:01: Player -936330232 wants to open piece_chest(Clone)   im: -936330232
+08/09/2022 19:39:01: Setting selected recipe 0
+08/09/2022 19:39:01: UI Group status changed root = True
+08/09/2022 19:39:01: UI Group status changed Player = True
+08/09/2022 19:39:06: Setting selected recipe 0
+08/09/2022 19:39:08: Setting selected recipe 0
+08/09/2022 19:39:08: UI Group status changed root = True
+08/09/2022 19:39:08: UI Group status changed Player = True
+08/09/2022 19:39:33: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 19:39:33: Setting selected recipe 0
+08/09/2022 19:39:33: UI Group status changed root = True
+08/09/2022 19:39:33: UI Group status changed Player = True
+08/09/2022 19:39:34: Stopped music home at 4776794
+08/09/2022 19:39:34: Resumed music home at 4776794
+08/09/2022 19:39:38: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 19:39:38: Setting selected recipe 0
+08/09/2022 19:39:38: UI Group status changed root = True
+08/09/2022 19:39:38: UI Group status changed Player = True
+08/09/2022 19:39:46: Stopped music home at 5291321
+08/09/2022 19:39:46: Resumed music home at 5291321
+08/09/2022 19:39:47: Stopped music home at 5340849
+08/09/2022 19:39:47: Resumed music meadows at 3060688
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 9285 unused Assets to reduce memory usage. Loaded Objects now: 1928821.
+Total: 587.447800 ms (FindLiveObjects: 115.806600 ms CreateObjectMapping: 27.092400 ms MarkObjects: 416.980300 ms  DeleteObjects: 27.568300 ms)
+
+08/09/2022 19:40:20: Disabling PlayerBase  character_trigger
+08/09/2022 19:40:35: Placed wood_pole
+08/09/2022 19:40:38: Placed wood_pole
+08/09/2022 19:40:56: Placed wood_pole
+08/09/2022 19:41:29: Placed wood_pole
+08/09/2022 19:41:37: Placed wood_pole
+08/09/2022 19:41:50: Placed wood_pole
+08/09/2022 19:41:57: Placed wood_pole
+08/09/2022 19:42:04: Placed wood_pole
+08/09/2022 19:42:09: Placed wood_pole
+08/09/2022 19:42:11: Placed wood_pole
+08/09/2022 19:42:38: Placed wood_pole
+08/09/2022 19:42:59: Disabling PlayerBase  character_trigger
+08/09/2022 19:43:00: Disabling PlayerBase  character_trigger
+08/09/2022 19:43:22: Placed wood_pole
+08/09/2022 19:43:24: Placed wood_pole
+08/09/2022 19:43:29: Placed wood_pole
+08/09/2022 19:43:33: Disabling PlayerBase  character_trigger
+08/09/2022 19:43:48: Placed piece_workbench
+08/09/2022 19:43:48: Disabling PlayerBase  character_trigger
+08/09/2022 19:43:52: Disabling PlayerBase  character_trigger
+08/09/2022 19:44:54: Placed piece_workbench
+08/09/2022 19:44:54: Disabling PlayerBase  character_trigger
+08/09/2022 19:45:01: Placed wood_pole
+08/09/2022 19:45:07: Placed wood_beam
+08/09/2022 19:45:09: Placed wood_beam
+08/09/2022 19:45:16: Placed wood_pole
+08/09/2022 19:45:19: Placed wood_beam
+08/09/2022 19:45:21: Placed wood_beam
+08/09/2022 19:45:31: Disabling PlayerBase  character_trigger
+08/09/2022 19:45:32: Placed piece_workbench
+08/09/2022 19:45:32: Disabling PlayerBase  character_trigger
+08/09/2022 19:45:33: Disabling PlayerBase  character_trigger
+08/09/2022 19:45:36: Placed wood_beam
+08/09/2022 19:45:37: Placed wood_beam
+08/09/2022 19:45:38: Placed wood_beam
+08/09/2022 19:45:41: Placed wood_pole
+08/09/2022 19:45:42: Placed wood_pole
+08/09/2022 19:45:49: Placed wood_floor
+08/09/2022 19:45:50: Placed wood_floor
+08/09/2022 19:45:52: Disabling PlayerBase  character_trigger
+08/09/2022 19:46:01: Placed piece_workbench
+08/09/2022 19:46:01: Disabling PlayerBase  character_trigger
+08/09/2022 19:46:06: Placed wood_pole_log
+08/09/2022 19:46:07: Placed wood_pole_log
+08/09/2022 19:46:10: Placed wood_pole_log
+08/09/2022 19:46:12: Placed wood_pole_log
+08/09/2022 19:46:16: Placed wood_pole_log
+08/09/2022 19:46:23: Placed wood_wall_roof_top_45
+08/09/2022 19:46:28: Placed wood_wall_roof_top_45
+08/09/2022 19:46:31: Placed wood_roof_top_45
+08/09/2022 19:46:33: Placed wood_roof_top_45
+08/09/2022 19:46:50: Placed woodwall
+08/09/2022 19:46:53: Placed woodwall
+08/09/2022 19:46:59: Placed woodwall
+08/09/2022 19:47:00: Placed woodwall
+08/09/2022 19:47:03: Placed wood_stair
+08/09/2022 19:47:05: Placed wood_stair
+08/09/2022 19:47:08: Placed wood_stair
+08/09/2022 19:47:13: Placed wood_stair
+08/09/2022 19:47:18: Placed wood_stair
+08/09/2022 19:47:19: Placed wood_stair
+08/09/2022 19:47:28: Placed wood_door
+08/09/2022 19:47:35: Placed wood_door
+08/09/2022 19:47:40: Placed wood_roof_top_45
+08/09/2022 19:47:44: Placed wood_roof_top_45
+08/09/2022 19:47:47: Placed wood_roof
+08/09/2022 19:47:49: Placed wood_roof
+08/09/2022 19:47:53: Placed wood_roof
+08/09/2022 19:47:54: Placed wood_roof
+08/09/2022 19:47:55: Placed wood_roof
+08/09/2022 19:47:59: Placed wood_roof
+08/09/2022 19:48:00: Placed wood_roof
+08/09/2022 19:48:02: Placed wood_roof
+08/09/2022 19:48:03: Placed wood_roof
+08/09/2022 19:48:16: Placed wood_pole
+08/09/2022 19:49:09: Placed wood_pole
+08/09/2022 19:49:39: Disabling PlayerBase  character_trigger
+08/09/2022 19:49:43: Stopped music meadows at 224015
+08/09/2022 19:50:02: Disabling PlayerBase  character_trigger
+08/09/2022 19:50:07: Placed piece_workbench
+08/09/2022 19:50:07: Disabling PlayerBase  character_trigger
+08/09/2022 19:50:11: Uncompressed size 8392769
+08/09/2022 19:50:11: Compressed size 15425
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 14018 unused Assets to reduce memory usage. Loaded Objects now: 1955316.
+Total: 613.570300 ms (FindLiveObjects: 118.804900 ms CreateObjectMapping: 27.336100 ms MarkObjects: 423.860300 ms  DeleteObjects: 43.568600 ms)
+
+08/09/2022 19:50:20: Placed wood_pole
+08/09/2022 19:50:26: Placed wood_beam
+08/09/2022 19:50:27: Placed wood_beam
+08/09/2022 19:50:30: Placed wood_beam
+08/09/2022 19:50:31: Placed wood_beam
+08/09/2022 19:50:35: Placed wood_pole
+08/09/2022 19:50:51: Spawned Greydwarf_Elite x 1
+08/09/2022 19:50:51: Spawned Greydwarf x 1
+08/09/2022 19:50:59: Spawned Skeleton x 2
+08/09/2022 19:50:59: Spawned Skeleton x 1
+08/09/2022 19:50:59: Spawned Greydwarf x 1
+08/09/2022 19:50:59: Spawned Greyling x 1
+08/09/2022 19:51:08: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 19:51:08: Setting selected recipe 1
+08/09/2022 19:51:08: UI Group status changed root = True
+08/09/2022 19:51:08: UI Group status changed Player = True
+08/09/2022 19:51:09: Stopped music home at 437341
+08/09/2022 19:51:09: Resumed music home at 437341
+08/09/2022 19:51:19: Stopped music home at 877502
+08/09/2022 19:51:19: Resumed music home at 877502
+08/09/2022 19:51:21: Stopped music home at 952187
+08/09/2022 19:52:03: Placed wood_beam
+08/09/2022 19:52:04: Placed wood_beam
+08/09/2022 19:52:05: Placed wood_beam
+08/09/2022 19:52:06: Placed wood_beam
+08/09/2022 19:52:09: Placed wood_pole
+08/09/2022 19:52:15: Placed wood_beam
+08/09/2022 19:52:16: Placed wood_beam
+08/09/2022 19:52:18: Placed wood_beam
+08/09/2022 19:52:19: Placed wood_beam
+08/09/2022 19:52:22: Placed wood_pole
+08/09/2022 19:52:28: Placed wood_beam
+08/09/2022 19:52:29: Placed wood_beam
+08/09/2022 19:52:30: Placed wood_beam
+08/09/2022 19:52:30: Placed wood_beam
+08/09/2022 19:52:40: Placed wood_pole
+08/09/2022 19:52:43: Placed wood_beam
+08/09/2022 19:52:47: Placed wood_pole
+08/09/2022 19:52:48: Placed wood_pole
+08/09/2022 19:52:50: Placed wood_pole
+08/09/2022 19:53:17: Placed mud_road_v2
+08/09/2022 19:53:21: Placed mud_road_v2
+08/09/2022 19:53:29: Placed wood_beam
+08/09/2022 19:53:31: Placed wood_beam
+08/09/2022 19:53:36: Placed wood_pole
+08/09/2022 19:54:00: Spawned Greydwarf_Shaman x 1
+08/09/2022 19:54:03: Placed mud_road_v2
+08/09/2022 19:54:12: Placed mud_road_v2
+08/09/2022 19:54:13: Placed mud_road_v2
+08/09/2022 19:54:14: Placed mud_road_v2
+08/09/2022 19:54:15: Placed mud_road_v2
+08/09/2022 19:54:33: Placed wood_pole
+08/09/2022 19:54:40: Placed wood_pole
+08/09/2022 19:54:56: Placed wood_pole
+08/09/2022 19:55:01: Placed wood_pole
+08/09/2022 19:55:41: Placed wood_pole_log_4
+08/09/2022 19:55:50: Placed wood_pole
+08/09/2022 19:55:59: Placed wood_pole
+08/09/2022 19:56:07: Placed wood_pole
+08/09/2022 19:56:36: Placed wood_pole_log_4
+08/09/2022 19:56:39: Placed wood_pole_log_4
+08/09/2022 19:56:42: Placed wood_pole_log_4
+08/09/2022 19:56:50: Placed wood_pole_log_4
+08/09/2022 19:56:52: Placed wood_pole_log_4
+08/09/2022 19:56:54: Placed wood_pole_log_4
+08/09/2022 19:56:56: Placed wood_pole_log_4
+08/09/2022 19:57:07: Placed wood_stair
+08/09/2022 19:57:09: Placed wood_stair
+08/09/2022 19:57:17: Placed wood_wall_half
+08/09/2022 19:57:19: Placed wood_wall_half
+08/09/2022 19:57:29: Placed wood_gate
+08/09/2022 19:57:31: Placed wood_gate
+08/09/2022 19:57:48: Placed wood_floor
+08/09/2022 19:57:50: Placed wood_floor
+08/09/2022 19:57:52: Placed wood_floor
+08/09/2022 19:57:54: Placed wood_floor
+08/09/2022 19:57:59: Placed wood_floor
+08/09/2022 19:58:00: Placed wood_floor
+08/09/2022 19:58:01: Placed wood_floor
+08/09/2022 19:58:03: Placed wood_floor
+08/09/2022 19:58:04: Placed wood_floor
+08/09/2022 19:58:09: Placed wood_floor
+08/09/2022 19:58:13: Placed wood_floor
+08/09/2022 19:58:14: Placed wood_floor
+08/09/2022 19:58:16: Placed wood_floor
+08/09/2022 19:58:20: Placed wood_floor
+08/09/2022 19:58:22: Placed wood_floor
+08/09/2022 19:58:24: Placed wood_floor
+08/09/2022 19:58:35: Placed wood_gate
+08/09/2022 19:59:00: Placed wood_stair
+08/09/2022 19:59:02: Placed wood_stair
+08/09/2022 19:59:22: Stopped music meadows at 208320
+08/09/2022 19:59:29: Stopped music home at 268851
+08/09/2022 19:59:29: Resumed music home at 268851
+08/09/2022 19:59:29: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 19:59:29: Setting selected recipe 2
+08/09/2022 19:59:29: UI Group status changed root = True
+08/09/2022 19:59:29: UI Group status changed Player = True
+08/09/2022 19:59:37: Stopped music home at 624264
+08/09/2022 19:59:37: Resumed music home at 624264
+08/09/2022 19:59:37: Setting selected recipe 0
+08/09/2022 19:59:37: UI Group status changed root = True
+08/09/2022 19:59:37: UI Group status changed Player = True
+08/09/2022 19:59:48: Stopped music home at 1104189
+08/09/2022 19:59:48: Resumed music meadows at 208320
+08/09/2022 20:00:01: Placed wood_wall_half
+08/09/2022 20:00:04: Placed wood_wall_half
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4291 unused Assets to reduce memory usage. Loaded Objects now: 1961413.
+Total: 580.744800 ms (FindLiveObjects: 115.724300 ms CreateObjectMapping: 26.238400 ms MarkObjects: 425.459100 ms  DeleteObjects: 13.322700 ms)
+
+08/09/2022 20:00:19: Placed wood_wall_half
+08/09/2022 20:00:21: Placed wood_wall_half
+08/09/2022 20:00:23: Placed wood_wall_half
+08/09/2022 20:00:24: Placed wood_wall_half
+08/09/2022 20:00:37: Placed wood_gate
+08/09/2022 20:00:47: Placed woodwall
+08/09/2022 20:00:47: Placed woodwall
+08/09/2022 20:00:49: Placed woodwall
+08/09/2022 20:00:50: Placed woodwall
+08/09/2022 20:00:52: Placed woodwall
+08/09/2022 20:00:53: Placed woodwall
+08/09/2022 20:00:54: Placed woodwall
+08/09/2022 20:00:55: Placed woodwall
+08/09/2022 20:00:56: Placed woodwall
+08/09/2022 20:01:01: Placed woodwall
+08/09/2022 20:01:03: Placed woodwall
+08/09/2022 20:01:06: Placed woodwall
+08/09/2022 20:01:11: Placed woodwall
+08/09/2022 20:01:12: Placed woodwall
+08/09/2022 20:01:14: Placed woodwall
+08/09/2022 20:01:16: Placed woodwall
+08/09/2022 20:01:18: Placed woodwall
+08/09/2022 20:01:19: Placed woodwall
+08/09/2022 20:01:20: Placed woodwall
+08/09/2022 20:01:21: Placed woodwall
+08/09/2022 20:01:23: Placed woodwall
+08/09/2022 20:01:25: Placed woodwall
+08/09/2022 20:01:25: Placed woodwall
+08/09/2022 20:01:27: Placed woodwall
+08/09/2022 20:01:31: Placed wood_wall_half
+08/09/2022 20:01:33: Placed wood_wall_half
+08/09/2022 20:01:35: Placed wood_wall_half
+08/09/2022 20:01:38: Placed wood_wall_half
+08/09/2022 20:01:39: Placed wood_wall_half
+08/09/2022 20:01:57: Placed wood_log_26
+08/09/2022 20:02:00: Placed wood_log_26
+08/09/2022 20:02:05: Placed wood_log_26
+08/09/2022 20:02:10: Placed wood_log_26
+08/09/2022 20:05:13: Setting selected recipe 0
+08/09/2022 20:05:13: UI Group status changed root = True
+08/09/2022 20:05:13: UI Group status changed Player = True
+08/09/2022 20:05:16: Added to stack31 0
+08/09/2022 20:05:16: Setting selected recipe 0
+08/09/2022 20:05:29: Placed wood_roof
+08/09/2022 20:05:32: Placed wood_roof
+08/09/2022 20:05:33: Placed wood_roof
+08/09/2022 20:05:35: Placed wood_roof
+08/09/2022 20:05:49: Placed wood_roof_ocorner
+08/09/2022 20:05:53: Placed wood_roof
+08/09/2022 20:05:55: Placed wood_roof
+08/09/2022 20:05:56: Placed wood_roof
+08/09/2022 20:05:57: Placed wood_roof
+08/09/2022 20:06:13: Placed wood_roof
+08/09/2022 20:06:15: Placed wood_roof
+08/09/2022 20:06:16: Placed wood_roof
+08/09/2022 20:06:18: Placed wood_roof
+08/09/2022 20:06:23: Placed wood_roof
+08/09/2022 20:06:25: Placed wood_roof
+08/09/2022 20:06:25: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 20:06:26: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 20:06:31: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 20:06:31: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 20:07:44: Done fading color
+08/09/2022 20:07:44: Done fading color
+08/09/2022 20:07:45: Done fading color
+08/09/2022 20:08:16: Setting selected recipe 0
+08/09/2022 20:08:16: UI Group status changed root = True
+08/09/2022 20:08:16: UI Group status changed Player = True
+08/09/2022 20:08:39: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 20:08:39: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 20:09:19: Rel vel 12.80331
+08/09/2022 20:09:23: Setting selected recipe 0
+08/09/2022 20:09:23: UI Group status changed root = True
+08/09/2022 20:09:23: UI Group status changed Player = True
+08/09/2022 20:09:27: Drop item $item_flint
+08/09/2022 20:09:27: drop all 1  1
+08/09/2022 20:09:27: Setting selected recipe 0
+08/09/2022 20:10:04: Spawned Greyling x 1
+08/09/2022 20:10:13: Uncompressed size 8392769
+08/09/2022 20:10:13: Compressed size 15425
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4794 unused Assets to reduce memory usage. Loaded Objects now: 1817724.
+Total: 535.761900 ms (FindLiveObjects: 107.516100 ms CreateObjectMapping: 26.481200 ms MarkObjects: 389.649900 ms  DeleteObjects: 12.114200 ms)
+
+08/09/2022 20:10:16: Setting selected recipe 0
+08/09/2022 20:10:16: UI Group status changed root = True
+08/09/2022 20:10:16: UI Group status changed Player = True
+08/09/2022 20:10:18: Drop item $item_dandelion
+08/09/2022 20:10:18: drop all 1  1
+08/09/2022 20:10:18: Setting selected recipe 0
+08/09/2022 20:10:20: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 20:10:20: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 20:10:20: Force generaeting hmap (0.0, 0.0, -64.0)
+08/09/2022 20:10:37: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 20:10:37: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 20:10:37: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 20:10:37: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 20:10:41: Spawned Greyling x 1
+08/09/2022 20:10:45: Done fading color
+08/09/2022 20:10:46: Done fading color
+08/09/2022 20:10:46: Done fading color
+08/09/2022 20:10:48: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 20:10:48: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 20:11:02: Done fading color
+08/09/2022 20:11:03: Done fading color
+08/09/2022 20:11:03: Done fading color
+08/09/2022 20:11:08: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 20:11:08: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 20:11:13: Placed wood_roof_ocorner
+08/09/2022 20:11:16: Placed wood_roof
+08/09/2022 20:11:17: Placed wood_roof
+08/09/2022 20:11:24: Placed wood_roof_ocorner
+08/09/2022 20:11:33: Done fading color
+08/09/2022 20:11:34: Done fading color
+08/09/2022 20:11:34: Done fading color
+08/09/2022 20:11:42: Placed wood_roof_ocorner
+08/09/2022 20:11:58: Setting selected recipe 0
+08/09/2022 20:11:58: UI Group status changed root = True
+08/09/2022 20:11:58: UI Group status changed Player = True
+08/09/2022 20:12:23: Placed wood_stair
+08/09/2022 20:12:25: Placed wood_stair
+08/09/2022 20:12:29: Placed wood_floor
+08/09/2022 20:12:35: Placed wood_stair
+08/09/2022 20:12:37: Placed wood_stair
+08/09/2022 20:12:44: Placed wood_floor
+08/09/2022 20:12:47: Placed wood_floor
+08/09/2022 20:12:50: Placed wood_floor
+08/09/2022 20:12:53: Placed wood_floor
+08/09/2022 20:12:55: Placed wood_floor
+08/09/2022 20:12:59: Placed wood_floor
+08/09/2022 20:13:04: Placed wood_floor
+08/09/2022 20:13:05: Placed wood_floor
+08/09/2022 20:13:06: Placed wood_floor
+08/09/2022 20:13:10: Placed wood_floor
+08/09/2022 20:13:11: Placed wood_floor
+08/09/2022 20:13:13: Placed wood_floor
+08/09/2022 20:13:14: Placed wood_floor
+08/09/2022 20:13:18: Placed wood_floor
+08/09/2022 20:13:20: Placed wood_floor
+08/09/2022 20:13:37: Placed wood_floor
+08/09/2022 20:13:59: Placed wood_pole_log_4
+08/09/2022 20:14:01: Placed wood_pole_log_4
+08/09/2022 20:14:03: Placed wood_pole_log_4
+08/09/2022 20:14:05: Placed wood_pole_log_4
+08/09/2022 20:14:23: Placed wood_pole_log
+08/09/2022 20:15:03: Placed wood_pole_log
+08/09/2022 20:15:20: Placed wood_pole_log
+08/09/2022 20:15:44: Placed wood_pole_log
+08/09/2022 20:15:59: Placed wood_pole_log
+08/09/2022 20:16:34: Placed wood_pole_log
+08/09/2022 20:16:58: Setting selected recipe 1
+08/09/2022 20:16:58: UI Group status changed root = True
+08/09/2022 20:16:58: UI Group status changed Player = True
+08/09/2022 20:18:38: Placed woodwall
+08/09/2022 20:18:42: Placed woodwall
+08/09/2022 20:18:43: Placed woodwall
+08/09/2022 20:19:04: Placed wood_wall_roof_45
+08/09/2022 20:19:06: Placed wood_wall_roof_45
+08/09/2022 20:19:10: Placed woodwall
+08/09/2022 20:19:12: Placed woodwall
+08/09/2022 20:19:14: Placed woodwall
+08/09/2022 20:19:45: Stopped music meadows at 4455526
+08/09/2022 20:19:48: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:19:52: Placed wood_wall_roof_45_upsidedown
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 9256 unused Assets to reduce memory usage. Loaded Objects now: 1970389.
+Total: 616.700400 ms (FindLiveObjects: 130.371900 ms CreateObjectMapping: 27.482800 ms MarkObjects: 437.003200 ms  DeleteObjects: 21.842200 ms)
+
+08/09/2022 20:20:45: Spawned Skeleton x 3
+08/09/2022 20:20:45: Spawned Greyling x 1
+08/09/2022 20:20:53: Spawned Greydwarf_Elite x 1
+08/09/2022 20:21:09: Spawned Greydwarf x 1
+08/09/2022 20:21:19: Disabling jump_trigger  character_trigger
+08/09/2022 20:21:19: Disabling jump_trigger (1)  character_trigger
+08/09/2022 20:21:19: Disabling jump_trigger (2)  character_trigger
+08/09/2022 20:21:33: Placed woodwall
+08/09/2022 20:21:37: Placed woodwall
+08/09/2022 20:21:42: Placed woodwall
+08/09/2022 20:21:44: Placed woodwall
+08/09/2022 20:21:45: Placed woodwall
+08/09/2022 20:21:47: Placed woodwall
+08/09/2022 20:21:49: Placed woodwall
+08/09/2022 20:21:51: Placed woodwall
+08/09/2022 20:21:54: Placed woodwall
+08/09/2022 20:21:55: Placed woodwall
+08/09/2022 20:21:57: Placed woodwall
+08/09/2022 20:21:58: Placed woodwall
+08/09/2022 20:22:03: Placed wood_wall_roof_45
+08/09/2022 20:22:08: Placed wood_wall_roof_45
+08/09/2022 20:22:10: Placed wood_wall_roof_45
+08/09/2022 20:22:14: Placed wood_wall_roof_45
+08/09/2022 20:22:18: Placed wood_wall_roof_45
+08/09/2022 20:22:22: Placed wood_wall_roof_45
+08/09/2022 20:22:27: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:22:32: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:22:36: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:22:40: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:22:45: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:22:47: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:22:52: Poison damage: 4.840909 ttl:3.200207 hits:3 dmg perhit:1.613636
+08/09/2022 20:22:56: Poison damage: 6.68603 ttl:3.585736 hits:3 dmg perhit:2.228677
+08/09/2022 20:22:57: Spawned Greydwarf_Shaman x 1
+08/09/2022 20:22:59: Poison damage: 6.58569 ttl:3.56626 hits:3 dmg perhit:2.19523
+08/09/2022 20:23:42: Setting selected recipe 0
+08/09/2022 20:23:42: UI Group status changed root = True
+08/09/2022 20:23:42: UI Group status changed Player = True
+08/09/2022 20:23:56: Placed wood_stair
+08/09/2022 20:23:59: Placed wood_stair
+08/09/2022 20:24:07: Placed wood_floor
+08/09/2022 20:24:16: Placed wood_stair
+08/09/2022 20:24:18: Placed wood_stair
+08/09/2022 20:24:33: Spawned Greydwarf x 1
+08/09/2022 20:24:37: Placed wood_floor
+08/09/2022 20:24:39: Placed wood_floor
+08/09/2022 20:24:41: Placed wood_floor
+08/09/2022 20:24:44: Placed wood_floor
+08/09/2022 20:24:46: Placed wood_floor
+08/09/2022 20:24:51: Placed wood_floor
+08/09/2022 20:24:53: Placed wood_floor
+08/09/2022 20:24:58: Spawned Greydwarf_Elite x 1
+08/09/2022 20:24:58: Spawned Greydwarf_Shaman x 1
+08/09/2022 20:24:58: Placed wood_floor
+08/09/2022 20:25:01: Placed wood_floor
+08/09/2022 20:25:03: Placed wood_floor
+08/09/2022 20:25:21: Poison damage: 22.79679 ttl:5.774599 hits:5 dmg perhit:4.559358
+08/09/2022 20:25:25: Poison damage: 22.9473 ttl:5.790334 hits:5 dmg perhit:4.58946
+08/09/2022 20:25:41: Spawned Greydwarf_Elite x 1
+08/09/2022 20:25:41: Spawned Greydwarf_Shaman x 1
+08/09/2022 20:25:41: Spawned Greyling x 1
+08/09/2022 20:26:04: Spawned Greydwarf x 1
+08/09/2022 20:26:12: Stopped music home at 293842
+08/09/2022 20:26:12: Resumed music home at 293842
+08/09/2022 20:26:13: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 20:26:13: Setting selected recipe 1
+08/09/2022 20:26:13: UI Group status changed root = True
+08/09/2022 20:26:13: UI Group status changed Player = True
+08/09/2022 20:26:21: Stopped music home at 700957
+08/09/2022 20:26:21: Resumed music home at 700957
+08/09/2022 20:26:23: Setting selected recipe 0
+08/09/2022 20:26:23: UI Group status changed root = True
+08/09/2022 20:26:23: UI Group status changed Player = True
+08/09/2022 20:26:32: Stopped music home at 1163727
+08/09/2022 20:26:57: Disabling PlayerBase  character_trigger
+08/09/2022 20:27:09: Placed piece_workbench
+08/09/2022 20:27:09: Disabling PlayerBase  character_trigger
+08/09/2022 20:27:25: Poison damage: 6.793787 ttl:3.606489 hits:3 dmg perhit:2.264596
+08/09/2022 20:27:28: Poison damage: 6.204461 ttl:3.490875 hits:3 dmg perhit:2.068154
+08/09/2022 20:27:32: Poison damage: 7.475736 ttl:3.734179 hits:3 dmg perhit:2.491912
+08/09/2022 20:27:35: Poison damage: 5.472772 ttl:3.339396 hits:3 dmg perhit:1.824257
+08/09/2022 20:27:38: Poison damage: 6.964368 ttl:3.639009 hits:3 dmg perhit:2.321456
+08/09/2022 20:27:58: Poison damage: 7.122875 ttl:3.668872 hits:3 dmg perhit:2.374292
+08/09/2022 20:28:07: Disabling PlayerBase  character_trigger
+08/09/2022 20:28:09: Disabling PlayerBase  character_trigger
+08/09/2022 20:28:19: Placed wood_floor
+08/09/2022 20:28:24: Placed wood_floor
+08/09/2022 20:28:26: Placed wood_floor
+08/09/2022 20:28:37: Placed wood_floor
+08/09/2022 20:29:31: Placed wood_wall_log_4x0.5
+08/09/2022 20:29:33: Placed wood_wall_log_4x0.5
+08/09/2022 20:29:46: Placed wood_wall_log_4x0.5
+08/09/2022 20:29:48: Placed wood_wall_log_4x0.5
+08/09/2022 20:29:52: Placed wood_wall_log_4x0.5
+08/09/2022 20:29:54: Placed wood_wall_log_4x0.5
+08/09/2022 20:29:57: Placed wood_wall_log_4x0.5
+08/09/2022 20:29:58: Placed wood_wall_log_4x0.5
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 10603 unused Assets to reduce memory usage. Loaded Objects now: 1976498.
+Total: 615.467500 ms (FindLiveObjects: 123.887000 ms CreateObjectMapping: 26.878400 ms MarkObjects: 440.520000 ms  DeleteObjects: 24.175300 ms)
+
+08/09/2022 20:30:14: Uncompressed size 8392769
+08/09/2022 20:30:14: Compressed size 15425
+08/09/2022 20:30:54: Placed wood_wall_log_4x0.5
+08/09/2022 20:30:55: Placed wood_wall_log_4x0.5
+08/09/2022 20:32:16: Stopped music meadows at 7822620
+08/09/2022 20:32:16: Resumed music home at 1163727
+08/09/2022 20:32:19: Stopped music home at 1294864
+08/09/2022 20:32:19: Resumed music meadows at 7822620
+08/09/2022 20:32:20: Stopped music meadows at 7831480
+08/09/2022 20:32:20: Resumed music home at 1294864
+08/09/2022 20:32:21: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 20:32:21: Setting selected recipe 0
+08/09/2022 20:32:21: UI Group status changed root = True
+08/09/2022 20:32:21: UI Group status changed Player = True
+08/09/2022 20:32:27: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 20:32:27: Setting selected recipe 0
+08/09/2022 20:32:27: UI Group status changed root = True
+08/09/2022 20:32:27: UI Group status changed Player = True
+08/09/2022 20:32:32: UI Group status changed root = False
+08/09/2022 20:32:32: UI Group status changed Player = False
+08/09/2022 20:32:33: UI Group status changed root = True
+08/09/2022 20:32:33: UI Group status changed Player = True
+08/09/2022 20:32:34: Setting selected recipe 0
+08/09/2022 20:32:39: Stopped music home at 2145962
+08/09/2022 20:32:39: Resumed music meadows at 7831480
+08/09/2022 20:33:03: Placed wood_wall_log_4x0.5
+08/09/2022 20:33:05: Placed wood_wall_log_4x0.5
+08/09/2022 20:33:10: Placed wood_wall_log_4x0.5
+08/09/2022 20:33:22: Placed wood_wall_log_4x0.5
+08/09/2022 20:33:25: Placed wood_wall_log_4x0.5
+08/09/2022 20:33:28: Placed wood_wall_log_4x0.5
+08/09/2022 20:33:50: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 20:33:50: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 20:33:56: Done fading color
+08/09/2022 20:33:57: Done fading color
+08/09/2022 20:33:57: Done fading color
+08/09/2022 20:34:48: Placed woodwall
+08/09/2022 20:34:50: Placed woodwall
+08/09/2022 20:34:53: Placed wood_wall_roof_45
+08/09/2022 20:34:55: Placed wood_wall_roof_45
+08/09/2022 20:35:37: Placed woodwall
+08/09/2022 20:35:40: Placed woodwall
+08/09/2022 20:35:43: Placed wood_wall_roof_45
+08/09/2022 20:35:44: Placed wood_wall_roof_45
+08/09/2022 20:35:49: Placed wood_wall_log_4x0.5
+08/09/2022 20:35:52: Placed wood_wall_log_4x0.5
+08/09/2022 20:36:25: Placed wood_roof
+08/09/2022 20:36:28: Placed wood_roof
+08/09/2022 20:36:29: Placed wood_roof
+08/09/2022 20:36:31: Placed wood_roof
+08/09/2022 20:36:48: Placed wood_roof_ocorner
+08/09/2022 20:37:02: Placed wood_roof
+08/09/2022 20:37:14: Placed wood_roof
+08/09/2022 20:37:17: Placed wood_roof
+08/09/2022 20:37:28: Starting respawn
+08/09/2022 20:37:28: Local player destroyed
+08/09/2022 20:37:28: tip:$loadscreen_tip02
+08/09/2022 20:37:36: Found bed at custom spawn point
+08/09/2022 20:37:38: Stopped music meadows at 1622185
+08/09/2022 20:37:38: Resumed music meadows at 1622185
+08/09/2022 20:37:38: Stopped music meadows at 1622185
+08/09/2022 20:37:38: Resumed music home at 2145962
+08/09/2022 20:37:47: Stopped music home at 2538376
+08/09/2022 20:37:47: Resumed music meadows at 1622185
+08/09/2022 20:38:04: Player -936330232 wants to open Player_tombstone(Clone)   im: -936330232
+08/09/2022 20:38:04: Setting selected recipe 0
+08/09/2022 20:38:04: UI Group status changed root = True
+08/09/2022 20:38:04: UI Group status changed Player = True
+08/09/2022 20:39:13: Placed wood_roof
+08/09/2022 20:39:19: Placed wood_roof_ocorner
+08/09/2022 20:39:25: Placed woodwall
+08/09/2022 20:39:28: Placed wood_roof
+08/09/2022 20:39:30: Placed wood_roof
+08/09/2022 20:39:31: Placed wood_roof
+08/09/2022 20:39:32: Placed wood_roof
+08/09/2022 20:39:40: Placed wood_roof_ocorner
+08/09/2022 20:39:44: Placed wood_roof
+08/09/2022 20:39:46: Placed wood_roof
+08/09/2022 20:39:47: Placed wood_roof
+08/09/2022 20:39:48: Placed wood_roof
+08/09/2022 20:39:57: Placed wood_roof_ocorner
+08/09/2022 20:40:13: Placed woodwall
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 10178 unused Assets to reduce memory usage. Loaded Objects now: 1980267.
+Total: 607.204800 ms (FindLiveObjects: 118.357100 ms CreateObjectMapping: 26.956200 ms MarkObjects: 437.738000 ms  DeleteObjects: 24.153000 ms)
+
+08/09/2022 20:40:17: Placed woodwall
+08/09/2022 20:40:23: Placed wood_wall_roof_45
+08/09/2022 20:40:25: Placed wood_wall_roof_45
+08/09/2022 20:40:37: Placed wood_wall_log_4x0.5
+08/09/2022 20:40:40: Placed wood_wall_log_4x0.5
+08/09/2022 20:40:45: Placed woodwall
+08/09/2022 20:40:47: Placed woodwall
+08/09/2022 20:40:50: Placed wood_wall_roof_45
+08/09/2022 20:40:51: Placed wood_wall_roof_45
+08/09/2022 20:40:55: Placed wood_wall_log_4x0.5
+08/09/2022 20:40:58: Placed wood_wall_log_4x0.5
+08/09/2022 20:41:08: Placed woodwall
+08/09/2022 20:41:11: Placed woodwall
+08/09/2022 20:41:14: Placed wood_wall_roof_45
+08/09/2022 20:41:18: Placed wood_wall_roof_45
+08/09/2022 20:41:44: Placed wood_wall_log_4x0.5
+08/09/2022 20:41:46: Placed wood_wall_log_4x0.5
+08/09/2022 20:41:57: Placed wood_pole_log_4
+08/09/2022 20:42:01: Placed wood_pole_log_4
+08/09/2022 20:42:04: Placed wood_pole_log_4
+08/09/2022 20:42:07: Placed wood_pole_log_4
+08/09/2022 20:42:16: Placed woodwall
+08/09/2022 20:42:18: Placed woodwall
+08/09/2022 20:42:19: Placed woodwall
+08/09/2022 20:42:21: Placed woodwall
+08/09/2022 20:42:23: Placed woodwall
+08/09/2022 20:42:24: Placed woodwall
+08/09/2022 20:42:26: Placed woodwall
+08/09/2022 20:42:28: Placed woodwall
+08/09/2022 20:42:32: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:42:36: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:42:39: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:42:42: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:42:50: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:42:53: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:42:57: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:43:00: Placed wood_wall_roof_45_upsidedown
+08/09/2022 20:43:36: Setting selected recipe 0
+08/09/2022 20:43:36: UI Group status changed root = True
+08/09/2022 20:43:36: UI Group status changed Player = True
+08/09/2022 20:43:45: Placed wood_roof
+08/09/2022 20:43:48: Placed wood_roof
+08/09/2022 20:43:51: Placed wood_roof
+08/09/2022 20:44:55: Placed wood_roof
+08/09/2022 20:45:02: Placed wood_roof
+08/09/2022 20:45:05: Placed wood_roof_ocorner
+08/09/2022 20:45:11: Placed wood_roof
+08/09/2022 20:45:12: Placed wood_roof
+08/09/2022 20:45:13: Placed wood_roof
+08/09/2022 20:45:18: Placed wood_roof
+08/09/2022 20:45:26: Setting selected recipe 0
+08/09/2022 20:45:26: UI Group status changed root = True
+08/09/2022 20:45:26: UI Group status changed Player = True
+08/09/2022 20:45:43: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 20:45:43: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 20:45:56: Setting selected recipe 1
+08/09/2022 20:45:56: UI Group status changed root = True
+08/09/2022 20:45:56: UI Group status changed Player = True
+08/09/2022 20:46:02: Rel vel 1.139351
+08/09/2022 20:46:29: Rel vel 3.394096
+08/09/2022 20:46:32: Rel vel 1.007519
+08/09/2022 20:49:46: Stopped music meadows at 4183215
+08/09/2022 20:49:53: Spawned Greydwarf_Elite x 1
+08/09/2022 20:49:53: Spawned Greydwarf_Shaman x 1
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6935 unused Assets to reduce memory usage. Loaded Objects now: 1878924.
+Total: 554.313200 ms (FindLiveObjects: 112.453500 ms CreateObjectMapping: 26.584100 ms MarkObjects: 398.403600 ms  DeleteObjects: 16.871600 ms)
+
+08/09/2022 20:50:16: Uncompressed size 8392810
+08/09/2022 20:50:16: Compressed size 15460
+08/09/2022 20:51:16: Spawned Greydwarf x 1
+08/09/2022 20:51:16: Spawned Greydwarf_Shaman x 1
+08/09/2022 20:51:16: Spawned Skeleton x 2
+08/09/2022 20:51:16: Spawned Greydwarf x 1
+08/09/2022 20:51:19: Done fading color
+08/09/2022 20:51:19: Done fading color
+08/09/2022 20:51:19: Done fading color
+08/09/2022 20:51:20: Setting selected recipe 0
+08/09/2022 20:51:20: UI Group status changed root = True
+08/09/2022 20:51:20: UI Group status changed Player = True
+08/09/2022 20:51:44: Placed wood_roof_ocorner
+08/09/2022 20:51:50: Placed wood_roof
+08/09/2022 20:51:52: Placed wood_roof
+08/09/2022 20:51:53: Placed wood_roof
+08/09/2022 20:51:54: Placed wood_roof
+08/09/2022 20:51:59: Placed wood_roof
+08/09/2022 20:52:01: Placed wood_roof
+08/09/2022 20:52:03: Placed wood_roof
+08/09/2022 20:52:10: Placed wood_roof_ocorner
+08/09/2022 20:52:27: Placed wood_roof_ocorner
+08/09/2022 20:53:28: Placed wood_roof_ocorner_45
+08/09/2022 20:53:34: Placed wood_roof_ocorner_45
+08/09/2022 20:53:38: Placed wood_roof_ocorner_45
+08/09/2022 20:53:42: Placed wood_roof_ocorner_45
+08/09/2022 20:53:56: Placed wood_roof_45
+08/09/2022 20:53:57: Placed wood_roof_45
+08/09/2022 20:54:00: Placed wood_roof_45
+08/09/2022 20:54:02: Placed wood_roof_45
+08/09/2022 20:54:05: Placed wood_roof_45
+08/09/2022 20:54:06: Placed wood_roof_45
+08/09/2022 20:54:08: Placed wood_roof_45
+08/09/2022 20:54:09: Placed wood_roof_45
+08/09/2022 20:54:40: Spawned Greydwarf x 1
+08/09/2022 20:54:43: Disabling jump_trigger  character_trigger
+08/09/2022 20:54:43: Disabling jump_trigger (1)  character_trigger
+08/09/2022 20:54:43: Disabling jump_trigger (2)  character_trigger
+08/09/2022 20:54:49: Placed wood_stepladder
+08/09/2022 20:54:49: Disabling jump_trigger  character_trigger
+08/09/2022 20:54:49: Disabling jump_trigger (1)  character_trigger
+08/09/2022 20:54:49: Disabling jump_trigger (2)  character_trigger
+08/09/2022 20:54:56: Placed wood_stepladder
+08/09/2022 20:54:56: Disabling jump_trigger  character_trigger
+08/09/2022 20:54:56: Disabling jump_trigger (1)  character_trigger
+08/09/2022 20:54:56: Disabling jump_trigger (2)  character_trigger
+08/09/2022 20:55:20: Spawned Greydwarf_Elite x 1
+08/09/2022 20:55:43: Disabling jump_trigger  character_trigger
+08/09/2022 20:55:43: Disabling jump_trigger (1)  character_trigger
+08/09/2022 20:55:43: Disabling jump_trigger (2)  character_trigger
+08/09/2022 20:55:46: Placed wood_stepladder
+08/09/2022 20:55:46: Disabling jump_trigger  character_trigger
+08/09/2022 20:55:46: Disabling jump_trigger (1)  character_trigger
+08/09/2022 20:55:46: Disabling jump_trigger (2)  character_trigger
+08/09/2022 20:56:10: Placed wood_beam_45
+08/09/2022 20:56:20: Spawned Skeleton x 1
+08/09/2022 20:56:20: Spawned Greyling x 1
+08/09/2022 20:56:36: Placed wood_beam_45
+08/09/2022 20:56:52: Disabling jump_trigger  character_trigger
+08/09/2022 20:56:52: Disabling jump_trigger (1)  character_trigger
+08/09/2022 20:56:52: Disabling jump_trigger (2)  character_trigger
+08/09/2022 20:56:56: Placed wood_stepladder
+08/09/2022 20:56:56: Disabling jump_trigger  character_trigger
+08/09/2022 20:56:56: Disabling jump_trigger (1)  character_trigger
+08/09/2022 20:56:56: Disabling jump_trigger (2)  character_trigger
+08/09/2022 20:57:07: Placed wood_roof_ocorner_45
+08/09/2022 20:57:09: Placed wood_roof_ocorner_45
+08/09/2022 20:57:12: Placed wood_roof_ocorner_45
+08/09/2022 20:57:37: Placed wood_roof
+08/09/2022 20:57:58: Placed wood_beam_45
+08/09/2022 20:58:00: Placed wood_beam_45
+08/09/2022 20:58:08: Placed wood_beam_45
+08/09/2022 20:58:10: Placed wood_beam_45
+08/09/2022 20:58:12: Placed wood_beam_45
+08/09/2022 20:58:16: Placed wood_beam_45
+08/09/2022 20:58:18: Placed wood_beam_45
+08/09/2022 20:58:20: Placed wood_beam_45
+08/09/2022 20:58:23: Placed wood_beam_45
+08/09/2022 20:58:25: Placed wood_beam_45
+08/09/2022 20:58:26: Placed wood_beam_45
+08/09/2022 20:58:45: Disabling jump_trigger  character_trigger
+08/09/2022 20:58:45: Disabling jump_trigger (1)  character_trigger
+08/09/2022 20:58:45: Disabling jump_trigger (2)  character_trigger
+08/09/2022 20:58:48: Placed wood_stepladder
+08/09/2022 20:58:48: Disabling jump_trigger  character_trigger
+08/09/2022 20:58:48: Disabling jump_trigger (1)  character_trigger
+08/09/2022 20:58:48: Disabling jump_trigger (2)  character_trigger
+08/09/2022 20:58:54: Placed wood_roof_ocorner_45
+08/09/2022 20:59:00: Placed wood_roof_ocorner_45
+08/09/2022 20:59:40: Placed wood_beam
+08/09/2022 20:59:41: Placed wood_beam
+08/09/2022 20:59:43: Placed wood_beam
+08/09/2022 20:59:46: Placed wood_beam
+08/09/2022 20:59:48: Placed wood_beam
+08/09/2022 20:59:49: Placed wood_beam
+08/09/2022 20:59:51: Placed wood_beam
+08/09/2022 21:00:02: Placed wood_beam
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 18491 unused Assets to reduce memory usage. Loaded Objects now: 1991350.
+Total: 629.678200 ms (FindLiveObjects: 125.439300 ms CreateObjectMapping: 27.796600 ms MarkObjects: 435.742100 ms  DeleteObjects: 40.699800 ms)
+
+08/09/2022 21:00:32: Placed wood_beam
+08/09/2022 21:00:40: Placed wood_beam
+08/09/2022 21:00:42: Placed wood_beam
+08/09/2022 21:00:46: Placed wood_beam
+08/09/2022 21:00:51: Placed wood_beam
+08/09/2022 21:00:52: Placed wood_beam
+08/09/2022 21:01:10: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 21:01:10: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 21:01:10: Spawned Greyling x 1
+08/09/2022 21:01:25: Setting selected recipe 0
+08/09/2022 21:01:25: UI Group status changed root = True
+08/09/2022 21:01:25: UI Group status changed Player = True
+08/09/2022 21:01:27: Drop item $item_trophy_greydwarf
+08/09/2022 21:01:27: drop all 1  1
+08/09/2022 21:01:27: Setting selected recipe 0
+08/09/2022 21:01:42: Setting selected recipe 0
+08/09/2022 21:01:42: UI Group status changed root = True
+08/09/2022 21:01:42: UI Group status changed Player = True
+08/09/2022 21:01:46: Drop item $item_beechseeds
+08/09/2022 21:01:46: drop all 4  4
+08/09/2022 21:01:46: Setting selected recipe 0
+08/09/2022 21:02:10: Done fading color
+08/09/2022 21:02:11: Done fading color
+08/09/2022 21:02:11: Done fading color
+08/09/2022 21:02:18: Setting selected recipe 0
+08/09/2022 21:02:18: UI Group status changed root = True
+08/09/2022 21:02:18: UI Group status changed Player = True
+08/09/2022 21:02:20: Disabling jump_trigger  character_trigger
+08/09/2022 21:02:20: Disabling jump_trigger (1)  character_trigger
+08/09/2022 21:02:20: Disabling jump_trigger (2)  character_trigger
+08/09/2022 21:02:22: Placed wood_stepladder
+08/09/2022 21:02:22: Disabling jump_trigger  character_trigger
+08/09/2022 21:02:22: Disabling jump_trigger (1)  character_trigger
+08/09/2022 21:02:22: Disabling jump_trigger (2)  character_trigger
+08/09/2022 21:02:53: Placed wood_beam
+08/09/2022 21:02:56: Placed wood_beam
+08/09/2022 21:03:15: Disabling jump_trigger  character_trigger
+08/09/2022 21:03:15: Disabling jump_trigger (1)  character_trigger
+08/09/2022 21:03:15: Disabling jump_trigger (2)  character_trigger
+08/09/2022 21:03:18: Placed wood_stepladder
+08/09/2022 21:03:18: Disabling jump_trigger  character_trigger
+08/09/2022 21:03:18: Disabling jump_trigger (1)  character_trigger
+08/09/2022 21:03:18: Disabling jump_trigger (2)  character_trigger
+08/09/2022 21:03:24: Placed wood_beam_45
+08/09/2022 21:03:26: Placed wood_beam_45
+08/09/2022 21:03:30: Placed wood_beam_45
+08/09/2022 21:03:33: Placed wood_beam_45
+08/09/2022 21:03:37: Placed wood_beam_45
+08/09/2022 21:04:42: Placed wood_wall_log_4x0.5
+08/09/2022 21:04:46: Placed wood_wall_log_4x0.5
+08/09/2022 21:05:13: Placed wood_wall_log_4x0.5
+08/09/2022 21:05:18: Placed wood_wall_log_4x0.5
+08/09/2022 21:05:51: Placed wood_wall_log_4x0.5
+08/09/2022 21:06:01: Placed wood_wall_log_4x0.5
+08/09/2022 21:06:08: Placed wood_wall_log_4x0.5
+08/09/2022 21:06:11: Placed wood_wall_log_4x0.5
+08/09/2022 21:06:57: Placed wood_log_45
+08/09/2022 21:07:14: Placed wood_log_45
+08/09/2022 21:07:23: Placed wood_log_45
+08/09/2022 21:07:35: Placed wood_log_45
+08/09/2022 21:07:48: Placed wood_log_45
+08/09/2022 21:07:55: Placed wood_log_45
+08/09/2022 21:07:57: Placed wood_log_45
+08/09/2022 21:08:07: Placed wood_log_45
+08/09/2022 21:09:22: Setting selected recipe 0
+08/09/2022 21:09:22: UI Group status changed root = True
+08/09/2022 21:09:22: UI Group status changed Player = True
+08/09/2022 21:09:26: Drop item $item_bonefragments
+08/09/2022 21:09:26: drop all 1  1
+08/09/2022 21:09:26: Setting selected recipe 0
+08/09/2022 21:09:31: Setting selected recipe 0
+08/09/2022 21:09:31: UI Group status changed root = True
+08/09/2022 21:09:31: UI Group status changed Player = True
+08/09/2022 21:09:34: Drop item $item_wood
+08/09/2022 21:09:34: drop all 18  18
+08/09/2022 21:09:34: Setting selected recipe 0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 14871 unused Assets to reduce memory usage. Loaded Objects now: 1989340.
+Total: 634.714900 ms (FindLiveObjects: 129.207500 ms CreateObjectMapping: 27.914000 ms MarkObjects: 442.238100 ms  DeleteObjects: 35.355000 ms)
+
+08/09/2022 21:10:17: Uncompressed size 8392810
+08/09/2022 21:10:17: Compressed size 15460
+08/09/2022 21:10:39: Placed wood_pole_log_4
+08/09/2022 21:11:00: Spawned Greyling x 1
+08/09/2022 21:11:05: Setting selected recipe 0
+08/09/2022 21:11:05: UI Group status changed root = True
+08/09/2022 21:11:05: UI Group status changed Player = True
+08/09/2022 21:11:16: Stopped music meadows at 2428072
+08/09/2022 21:11:17: Stopped music home at 56821
+08/09/2022 21:11:17: Resumed music meadows at 2428072
+08/09/2022 21:11:18: Stopped music meadows at 2481765
+08/09/2022 21:11:18: Resumed music home at 56821
+08/09/2022 21:11:19: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 21:11:19: Setting selected recipe 0
+08/09/2022 21:11:19: UI Group status changed root = True
+08/09/2022 21:11:19: UI Group status changed Player = True
+08/09/2022 21:11:24: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 21:11:24: Setting selected recipe 0
+08/09/2022 21:11:24: UI Group status changed root = True
+08/09/2022 21:11:24: UI Group status changed Player = True
+08/09/2022 21:11:25: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 21:11:25: Setting selected recipe 0
+08/09/2022 21:11:25: UI Group status changed root = True
+08/09/2022 21:11:25: UI Group status changed Player = True
+08/09/2022 21:11:28: Setting selected recipe 0
+08/09/2022 21:11:28: UI Group status changed root = True
+08/09/2022 21:11:28: UI Group status changed Player = True
+08/09/2022 21:11:30: Stopped music home at 571480
+08/09/2022 21:11:30: Resumed music meadows at 2481765
+08/09/2022 21:11:30: Stopped music meadows at 2491726
+08/09/2022 21:11:30: Resumed music home at 571480
+08/09/2022 21:11:37: Setting selected recipe 0
+08/09/2022 21:11:37: UI Group status changed root = True
+08/09/2022 21:11:37: UI Group status changed Player = True
+08/09/2022 21:11:44: Stopped music home at 1148632
+08/09/2022 21:11:44: Resumed music meadows at 2491726
+08/09/2022 21:11:53: Disabling PlayerBase  character_trigger
+08/09/2022 21:11:54: Disabling PlayerBase  character_trigger
+08/09/2022 21:11:56: Placed piece_stonecutter
+08/09/2022 21:11:56: Disabling PlayerBase  character_trigger
+08/09/2022 21:11:56: Disabling PlayerBase  character_trigger
+08/09/2022 21:11:56: Disabling PlayerBase  character_trigger
+08/09/2022 21:12:27: Placed stone_pillar
+08/09/2022 21:12:56: Placed stone_floor_2x2
+08/09/2022 21:13:03: Placed stone_floor_2x2
+08/09/2022 21:13:05: Placed stone_floor_2x2
+08/09/2022 21:13:13: Placed stone_floor_2x2
+08/09/2022 21:13:17: Placed stone_floor_2x2
+08/09/2022 21:13:20: Placed stone_floor_2x2
+08/09/2022 21:13:45: Placed stone_pillar
+08/09/2022 21:13:53: Placed stone_pillar
+08/09/2022 21:14:30: Placed stone_arch
+08/09/2022 21:14:47: Placed stone_arch
+08/09/2022 21:15:16: Setting selected recipe 1
+08/09/2022 21:15:16: UI Group status changed root = True
+08/09/2022 21:15:16: UI Group status changed Player = True
+08/09/2022 21:15:36: Placed stone_wall_4x2
+08/09/2022 21:15:40: Placed stone_wall_4x2
+08/09/2022 21:15:50: Placed stone_floor_2x2
+08/09/2022 21:15:53: Placed stone_pillar
+08/09/2022 21:16:01: Placed stone_floor_2x2
+08/09/2022 21:16:13: Placed stone_pillar
+08/09/2022 21:16:38: Placed stone_pillar
+08/09/2022 21:16:51: Placed stone_pillar
+08/09/2022 21:17:17: Spawned Greyling x 1
+08/09/2022 21:17:26: Placed stone_floor_2x2
+08/09/2022 21:17:35: Placed stone_floor_2x2
+08/09/2022 21:17:39: Placed stone_floor_2x2
+08/09/2022 21:17:40: Placed stone_floor_2x2
+08/09/2022 21:17:58: Placed wood_beam
+08/09/2022 21:18:11: Setting selected recipe 0
+08/09/2022 21:18:11: UI Group status changed root = True
+08/09/2022 21:18:11: UI Group status changed Player = True
+08/09/2022 21:18:17: Placed wood_wall_log_4x0.5
+08/09/2022 21:18:20: Placed wood_wall_log_4x0.5
+08/09/2022 21:19:07: Placed wood_wall_log_4x0.5
+08/09/2022 21:19:12: Setting selected recipe 0
+08/09/2022 21:19:12: UI Group status changed root = True
+08/09/2022 21:19:12: UI Group status changed Player = True
+08/09/2022 21:19:16: Setting selected recipe 0
+08/09/2022 21:19:16: UI Group status changed root = True
+08/09/2022 21:19:16: UI Group status changed Player = True
+08/09/2022 21:19:23: Setting selected recipe 0
+08/09/2022 21:19:23: UI Group status changed root = True
+08/09/2022 21:19:23: UI Group status changed Player = True
+08/09/2022 21:19:30: Setting selected recipe 0
+08/09/2022 21:19:30: UI Group status changed root = True
+08/09/2022 21:19:30: UI Group status changed Player = True
+08/09/2022 21:19:47: Stopped music meadows at 4409403
+08/09/2022 21:19:48: Spawned Greydwarf_Shaman x 1
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7241 unused Assets to reduce memory usage. Loaded Objects now: 2000201.
+Total: 609.384800 ms (FindLiveObjects: 119.752700 ms CreateObjectMapping: 27.733100 ms MarkObjects: 440.712800 ms  DeleteObjects: 21.185900 ms)
+
+08/09/2022 21:20:33: Player -936330232 wants to open piece_chest_wood(Clone)   im: -936330232
+08/09/2022 21:20:33: Setting selected recipe 0
+08/09/2022 21:20:33: UI Group status changed root = True
+08/09/2022 21:20:33: UI Group status changed Player = True
+08/09/2022 21:20:35: UI Group status changed root = False
+08/09/2022 21:20:35: UI Group status changed Player = False
+08/09/2022 21:20:35: UI Group status changed SplitDialog = True
+08/09/2022 21:20:36: UI Group status changed root = True
+08/09/2022 21:20:36: UI Group status changed Player = True
+08/09/2022 21:20:37: Setting selected recipe 0
+08/09/2022 21:20:42: Stopped music home at 391906
+08/09/2022 21:20:57: Spawned Greydwarf x 1
+08/09/2022 21:20:57: Spawned Greydwarf_Elite x 1
+08/09/2022 21:21:26: Placed wood_wall_log_4x0.5
+08/09/2022 21:22:35: Placed wood_wall_log
+08/09/2022 21:22:43: Placed wood_wall_log
+08/09/2022 21:22:48: Placed wood_wall_log
+08/09/2022 21:22:54: Placed wood_wall_log
+08/09/2022 21:23:01: Placed wood_wall_log_4x0.5
+08/09/2022 21:23:06: Placed wood_wall_log_4x0.5
+08/09/2022 21:23:22: Placed stone_pillar
+08/09/2022 21:23:28: Placed stone_pillar
+08/09/2022 21:23:48: Placed stone_pillar
+08/09/2022 21:24:02: Placed stone_pillar
+08/09/2022 21:24:11: Placed stone_pillar
+08/09/2022 21:24:40: Setting selected recipe 0
+08/09/2022 21:24:40: UI Group status changed root = True
+08/09/2022 21:24:40: UI Group status changed Player = True
+08/09/2022 21:25:01: Spawned Greydwarf x 1
+08/09/2022 21:25:04: Disabling jump_trigger  character_trigger
+08/09/2022 21:25:04: Disabling jump_trigger (1)  character_trigger
+08/09/2022 21:25:04: Disabling jump_trigger (2)  character_trigger
+08/09/2022 21:25:06: Placed wood_stepladder
+08/09/2022 21:25:06: Disabling jump_trigger  character_trigger
+08/09/2022 21:25:06: Disabling jump_trigger (1)  character_trigger
+08/09/2022 21:25:06: Disabling jump_trigger (2)  character_trigger
+08/09/2022 21:25:38: Placed wood_roof_ocorner_45
+08/09/2022 21:25:41: Spawned Greydwarf x 1
+08/09/2022 21:25:44: Placed wood_roof_ocorner_45
+08/09/2022 21:25:50: Placed wood_roof_ocorner_45
+08/09/2022 21:25:59: Placed wood_roof_ocorner_45
+08/09/2022 21:26:37: Placed wood_log_45
+08/09/2022 21:26:40: Placed wood_log_45
+08/09/2022 21:26:47: Placed wood_log_45
+08/09/2022 21:26:51: Placed wood_log_45
+08/09/2022 21:27:42: Disabling jump_trigger  character_trigger
+08/09/2022 21:27:42: Disabling jump_trigger (1)  character_trigger
+08/09/2022 21:27:42: Disabling jump_trigger (2)  character_trigger
+08/09/2022 21:27:57: Placed wood_stepladder
+08/09/2022 21:27:57: Disabling jump_trigger  character_trigger
+08/09/2022 21:27:57: Disabling jump_trigger (1)  character_trigger
+08/09/2022 21:27:57: Disabling jump_trigger (2)  character_trigger
+08/09/2022 21:28:10: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 21:28:10: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 21:28:14: Force generaeting hmap (-64.0, 0.0, -320.0)
+08/09/2022 21:28:14: Force generaeting hmap (0.0, 0.0, -320.0)
+08/09/2022 21:28:21: Disabling jump_trigger  character_trigger
+08/09/2022 21:28:21: Disabling jump_trigger (1)  character_trigger
+08/09/2022 21:28:21: Disabling jump_trigger (2)  character_trigger
+08/09/2022 21:28:23: Done fading color
+08/09/2022 21:28:24: Done fading color
+08/09/2022 21:28:24: Done fading color
+08/09/2022 21:29:33: Setting selected recipe 0
+08/09/2022 21:29:33: UI Group status changed root = True
+08/09/2022 21:29:33: UI Group status changed Player = True
+08/09/2022 21:29:35: Setting selected recipe 0
+08/09/2022 21:29:35: UI Group status changed root = True
+08/09/2022 21:29:35: UI Group status changed Player = True
+08/09/2022 21:30:01: Setting selected recipe 0
+08/09/2022 21:30:01: UI Group status changed root = True
+08/09/2022 21:30:01: UI Group status changed Player = True
+08/09/2022 21:30:06: Added to stack44 0
+08/09/2022 21:30:06: Setting selected recipe 0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 10615 unused Assets to reduce memory usage. Loaded Objects now: 1989233.
+Total: 606.660000 ms (FindLiveObjects: 119.206800 ms CreateObjectMapping: 26.894600 ms MarkObjects: 433.751700 ms  DeleteObjects: 26.806400 ms)
+
+08/09/2022 21:30:18: Uncompressed size 8392810
+08/09/2022 21:30:18: Compressed size 15460
+08/09/2022 21:30:36: Setting selected recipe 0
+08/09/2022 21:30:36: UI Group status changed root = True
+08/09/2022 21:30:36: UI Group status changed Player = True
+08/09/2022 21:30:56: Stopped music meadows at 4169023
+08/09/2022 21:31:00: Stopped music home at 141941
+08/09/2022 21:31:00: Resumed music meadows at 4169023
+08/09/2022 21:31:00: Stopped music meadows at 4192829
+08/09/2022 21:31:00: Resumed music home at 141941
+08/09/2022 21:31:03: Stopped music home at 272420
+08/09/2022 21:31:03: Resumed music meadows at 4192829
+08/09/2022 21:31:04: Stopped music meadows at 4239526
+08/09/2022 21:31:04: Resumed music home at 272420
+08/09/2022 21:31:07: Disabling PlayerBase  character_trigger
+08/09/2022 21:31:07: Disabling PlayerBase  character_trigger
+08/09/2022 21:31:11: Placed piece_stonecutter
+08/09/2022 21:31:11: Disabling PlayerBase  character_trigger
+08/09/2022 21:31:11: Disabling PlayerBase  character_trigger
+08/09/2022 21:31:11: Disabling PlayerBase  character_trigger
+08/09/2022 21:31:54: UI Group status changed MenuRoot = True
+08/09/2022 21:31:55: UI Group status changed MenuRoot = False
+08/09/2022 21:31:56: Game - OnApplicationQuit
+08/09/2022 21:31:56: Shuting down
+08/09/2022 21:31:56: Uncompressed size 8392810
+08/09/2022 21:31:56: Compressed size 15460
+08/09/2022 21:31:56: ZNet Shutdown
+08/09/2022 21:31:56: Sending disconnect msg
+08/09/2022 21:31:56: Sent to 90162103108965384
+08/09/2022 21:31:56: Released session ticket
+08/09/2022 21:31:56: Disposing socket
+08/09/2022 21:31:56: Closing socket 90162103108965384
+08/09/2022 21:31:56:   send queue size:0
+08/09/2022 21:31:56: Last socket, unregistering callback
+08/09/2022 21:31:56: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+08/09/2022 21:31:56: Disposing socket
+08/09/2022 21:31:56: Last socket, unregistering callback
+08/09/2022 21:31:56: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: 65c0 -> priority: 1 
-  Thread -> id: 6d10 -> priority: 1 
-  Thread -> id: 3bec -> priority: 1 
-  Thread -> id: 4630 -> priority: 1 
-  Thread -> id: 5d28 -> priority: 1 
-  Thread -> id: 2cb0 -> priority: 1 
-  Thread -> id: 2684 -> priority: 1 
-  Thread -> id: 4550 -> priority: 1 
-  Thread -> id: 5114 -> priority: 1 
-  Thread -> id: 65f0 -> priority: 1 
-  Thread -> id: 6fa0 -> priority: 1 
-  Thread -> id: 2a54 -> priority: 1 
-  Thread -> id: 6824 -> priority: 1 
-  Thread -> id: 61c -> priority: 1 
-  Thread -> id: ad8 -> priority: 1 
-  Thread -> id: 4b84 -> priority: 1 
-08/07/2022 15:44:44: Local player destroyed
-08/07/2022 15:44:45: FOund selected Button_yes
-08/07/2022 15:44:45: ZNet OnDestroy
-08/07/2022 15:44:45: Net scene destroyed
-08/07/2022 15:44:46: Steam manager on destroy
+  Thread -> id: 25c0 -> priority: 1 
+  Thread -> id: 5954 -> priority: 1 
+  Thread -> id: a54 -> priority: 1 
+  Thread -> id: 5e34 -> priority: 1 
+  Thread -> id: 21a4 -> priority: 1 
+  Thread -> id: 6130 -> priority: 1 
+  Thread -> id: 6928 -> priority: 1 
+  Thread -> id: 3700 -> priority: 1 
+  Thread -> id: 4f0c -> priority: 1 
+  Thread -> id: 7304 -> priority: 1 
+  Thread -> id: 2d2c -> priority: 1 
+  Thread -> id: 4df8 -> priority: 1 
+  Thread -> id: 6a94 -> priority: 1 
+  Thread -> id: 5bd8 -> priority: 1 
+  Thread -> id: 598c -> priority: 1 
+  Thread -> id: 5234 -> priority: 1 
+08/09/2022 21:31:59: FOund selected Button_yes
+08/09/2022 21:31:59: ZNet OnDestroy
+08/09/2022 21:31:59: Net scene destroyed
+08/09/2022 21:32:01: Local player destroyed
+08/09/2022 21:32:01: Steam manager on destroy
